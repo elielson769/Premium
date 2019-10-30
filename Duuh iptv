@@ -1,2 +1,607 @@
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2wuEKvT" group-title="FILMES" pltv-subgroup="ACAO",A BEIRA DO ABISMO http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_6378a17686ed58d9ee89270af0c411c8c84b42e8/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2KhnZqb" group-title="FILMES" pltv-subgroup="ACAO",JUSTICA VERMELHA
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wuEKvT" group-title="FILMES" pltv-subgroup="ACAO",A BEIRA DO ABISMO
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jR9Mok" group-title="FILMES" pltv-subgroup="ACAO",ESTRANHA OBSESSAO
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ih2qoO" group-title="FILMES" pltv-subgroup="ACAO",RICKY BOBBY A TODA VELOCIDADE
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jRASvO" group-title="FILMES" pltv-subgroup="ACAO",O ULTIMO GRANDE HEROI
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IdA2rX" group-title="FILMES" pltv-subgroup="ACAO",AS DUAS FACES DA LEI
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GdmQ0d" group-title="FILMES" pltv-subgroup="ACAO",REDE DE INTRIGAS
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Iz4j3P" group-title="FILMES" pltv-subgroup="ACAO",SEM SAIDA
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rDuht8" group-title="FILMES" pltv-subgroup="ACAO",ACIMA DA LEI
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ih59P3" group-title="FILMES" pltv-subgroup="ACAO",A INFORMANTE
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rG9hkz" group-title="FILMES" pltv-subgroup="ACAO",O PODER DA CORRUPCAO
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rEvdNL" group-title="FILMES" pltv-subgroup="ACAO",HOMENS PERIGOSOS
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IgiOpv" group-title="FILMES" pltv-subgroup="ACAO",SEQUESTRO DO METRO 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rGWoYk" group-title="FILMES" pltv-subgroup="ACAO",GUERRA AO TERROR
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rBmZFs" group-title="FILMES" pltv-subgroup="ACAO",OURO BRANCO
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KmosqZ" group-title="FILMES" pltv-subgroup="ACAO",RED
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2ICJF2M" group-title="FILMES" pltv-subgroup="ACAO",RESIDENT EVIL:O HOSPEDE MALDITO
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IdLkMK" group-title="FILMES" pltv-subgroup="ACAO",RESIDENT EVIL:APOCALIPSE
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Kmnj2q" group-title="FILMES" pltv-subgroup="ACAO",RESIDENT EVIL:EXTINCAO
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GcSknn" group-title="FILMES" pltv-subgroup="ACAO",TORTURADO
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IeUokD" group-title="FILMES" pltv-subgroup="ACAO",ANJOS DA NOITE:EVOLUCAO
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFMer9" group-title="FILMES" pltv-subgroup="ACAO",ANJOS DA NOITE:REBELIAO
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GehzWj" group-title="FILMES" pltv-subgroup="ACAO",HANCOCK
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jYRHVr" group-title="FILMES" pltv-subgroup="ACAO",ROCKY BALBOA
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KWZAXQ" group-title="FILMES" pltv-subgroup="ACAO",FUGA DE ABSOLOM
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KlqoQr" group-title="FILMES" pltv-subgroup="ACAO",ROBOCOP: O POLICIAL DO FUTURO
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KiB6aA" group-title="FILMES" pltv-subgroup="ACAO",ROBOCOP 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2L0DPGQ" group-title="FILMES" pltv-subgroup="ACAO",ROBOCOP 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Im3qIi" group-title="FILMES" pltv-subgroup="ACAO",HEROIS
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KkpZh7" group-title="FILMES" pltv-subgroup="ACAO",O GRANDE ANJO NEGRO
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wG1fxR" group-title="FILMES" pltv-subgroup="ACAO",EQUILIBRIUM
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IeMnfv" group-title="FILMES" pltv-subgroup="ACAO",SKYLINE:A INVASAO
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wIb2Uk" group-title="FILMES" pltv-subgroup="ACAO",TEMPOS DE VIOLENCIA
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rGGOvY" group-title="FILMES" pltv-subgroup="ACAO",ESPIAO POR ACIDENTE
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jYTPwp" group-title="FILMES" pltv-subgroup="ACAO",LAGRIMAS DO SOL
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Klxbtp" group-title="FILMES" pltv-subgroup="ACAO",SOLDADO UNIVERSAL 3
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IeWfG7" group-title="FILMES" pltv-subgroup="ACAO",TRIPLO X
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jTTFqg" group-title="FILMES" pltv-subgroup="ACAO",TRIPLO X:ESTADO DE EMERGENCIA
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KhyTvK" group-title="FILMES" pltv-subgroup="ACAO",O HOMEM SOMBRA
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IcSYXv" group-title="FILMES" pltv-subgroup="ACAO",REPLICANTE
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IkdxgS" group-title="FILMES" pltv-subgroup="ACAO",O FORASTEIRO 2
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wNXk2n" group-title="FILMES" pltv-subgroup="ACAO",SOU ESPIAO
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ge9v7Y" group-title="FILMES" pltv-subgroup="ACAO",ASSALTO SOBRE TRILHOS
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rB6dqT" group-title="FILMES" pltv-subgroup="ACAO",EXCESSO DE BAGAGEM
+http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IdEUgF" group-title="FILMES" pltv-subgroup="ACAO",VINGANCA
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IERyod" group-title="FILMES" pltv-subgroup="ACAO",O SENHOR DAS ARMAS
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KmegPe" group-title="FILMES" pltv-subgroup="ACAO",WASABI
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KmleDW" group-title="FILMES" pltv-subgroup="ACAO",HORAS DE DESESPERO
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jTsqMr" group-title="FILMES" pltv-subgroup="ACAO",UM TIRA POR ACASO
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KZiE7X" group-title="FILMES" pltv-subgroup="ACAO",SWAT:COMANDO ESPECIAL
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rEDSjw" group-title="FILMES" pltv-subgroup="ACAO",A ERA DA ESCURIDAO
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IBp3rt" group-title="FILMES" pltv-subgroup="ACAO",CAES DE GUERRA
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wNZcbp" group-title="FILMES" pltv-subgroup="ACAO",CONQUISTA SANGRENTA
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2L0688m" group-title="FILMES" pltv-subgroup="ACAO",DESAFIO RADICAL
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jUzg4r" group-title="FILMES" pltv-subgroup="ACAO",DIVISAO DE HOMICIDIOS
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rH9xjw" group-title="FILMES" pltv-subgroup="ACAO",GODZILLA
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KmFXrg" group-title="FILMES" pltv-subgroup="ACAO",IMPACTO MORTAL:A VINGANCA
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wJTfMC" group-title="FILMES" pltv-subgroup="ACAO",KARATE KID 3
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rEq48y" group-title="FILMES" pltv-subgroup="ACAO",MATADOR DE ALUGUEL
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Id6MBj" group-title="FILMES" pltv-subgroup="ACAO",A PRIMEIRA GRANDE DESCIDA
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2L0FbkD" group-title="FILMES" pltv-subgroup="ACAO",O GUARDIAO
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jWnw16" group-title="FILMES" pltv-subgroup="ACAO",O GUARDIAO 2
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ie6bQ1" group-title="FILMES" pltv-subgroup="ACAO",O GUARDIAO 3
+http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ik5Y9Z" group-title="FILMES" pltv-subgroup="ACAO",O LEGIONARIO
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rC2FVk" group-title="FILMES" pltv-subgroup="COMEDIA",BRUNO
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Kh5UIB" group-title="FILMES" pltv-subgroup="COMEDIA",O ABC DO AMOR
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wHBsFR" group-title="FILMES" pltv-subgroup="COMEDIA",JUNO
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rG6BDQ" group-title="FILMES" pltv-subgroup="COMEDIA",AS BRANQUELAS
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wwYrmJ" group-title="FILMES" pltv-subgroup="COMEDIA",UM SALAO DO BARULHO
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2I8WjXM" group-title="FILMES" pltv-subgroup="COMEDIA",LEMBRANCAS DE HOLLYWOOD
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rCScZy" group-title="FILMES" pltv-subgroup="COMEDIA",OS SEUS OS MEUS OS NOSSOS
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rAxetC" group-title="FILMES" pltv-subgroup="COMEDIA",OS PRODUTORES
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IuOLOx" group-title="FILMES" pltv-subgroup="COMEDIA",JOGUE A MAMAE DO TREM
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IbHAqT" group-title="FILMES" pltv-subgroup="COMEDIA",FEITICO DA LUA
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IdMpjv" group-title="FILMES" pltv-subgroup="COMEDIA",EU MINHA MULHER E MINHAS COPIAS
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2G7Zwkp" group-title="FILMES" pltv-subgroup="COMEDIA",UM DIA DE LOUCO
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2G7sTUa" group-title="FILMES" pltv-subgroup="COMEDIA",SUPERBAD
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Iwv8W5" group-title="FILMES" pltv-subgroup="COMEDIA",UMA FESTA NO AR
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KgimIC" group-title="FILMES" pltv-subgroup="COMEDIA",KUNG FUSAO
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rC48tQ" group-title="FILMES" pltv-subgroup="COMEDIA",O OPOSTO DO SEXO
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KdU0iz" group-title="FILMES" pltv-subgroup="COMEDIA",O PARAISO E LOGO AQUI
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KSekXY" group-title="FILMES" pltv-subgroup="COMEDIA",NEM POR CIMA DO MEU CADAVER
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhwqkI" group-title="FILMES" pltv-subgroup="COMEDIA",ADEUS AMOR
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wzcIPF" group-title="FILMES" pltv-subgroup="COMEDIA",KUNG FU FUTEBOL CLUBE
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rCtwQp" group-title="FILMES" pltv-subgroup="COMEDIA",A HERANCA DE MR DEEDS
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wyPwBo" group-title="FILMES" pltv-subgroup="COMEDIA",ALMONDEGAS 4
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IzqNBq" group-title="FILMES" pltv-subgroup="COMEDIA",BOLAS EM PANICO
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2G7qQPX" group-title="FILMES" pltv-subgroup="COMEDIA",COMO CONQUISTAR UMA MULHER
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KZdzMU" group-title="FILMES" pltv-subgroup="COMEDIA",NAO MAIS UM BESTEIROL AMERICANO
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhkOOi" group-title="FILMES" pltv-subgroup="COMEDIA",O JULGAMENTO DE PARIS
+http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFlMgx" group-title="FILMES" pltv-subgroup="COMEDIA",O PAIZAO
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhzKMv" group-title="FILMES" pltv-subgroup="COMEDIA",PROCURANDO ENCRENCA
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IyBILQ" group-title="FILMES" pltv-subgroup="COMEDIA",QUASE ILEGAL
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IltRha" group-title="FILMES" pltv-subgroup="COMEDIA",VAMOS NESSA
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GctbsS" group-title="FILMES" pltv-subgroup="COMEDIA",AMIGAS COM DINHEIRO
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ig4lKj" group-title="FILMES" pltv-subgroup="COMEDIA",A GRANDE JOGADA
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KX8x3i" group-title="FILMES" pltv-subgroup="COMEDIA",SEIS GRAUS DE SEPARACAO
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KhEBOr" group-title="FILMES" pltv-subgroup="COMEDIA",DOUTOR FANTASTICO
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jTBila" group-title="FILMES" pltv-subgroup="COMEDIA",PEGAR E LARGAR
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jQn1pB" group-title="FILMES" pltv-subgroup="INFANTIL",ANNIE
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jOIXkI" group-title="FILMES" pltv-subgroup="INFANTIL",A PANTERA COR DE ROSA
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2If6LJp" group-title="FILMES" pltv-subgroup="INFANTIL",UMA GAROTA ENCANTADA
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jQGxSY" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",JANELA SECRETA
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rCyCg0" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SEGUNDAS INTENCOES 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jOcxa3" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",DESEJO A TRES
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rE0vU6" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",HOTEL RUANDA
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KhSMmK" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",BONS COSTUMES
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2G7ZXez" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",DE REPENTE 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IAJJjk" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",ADORAVEIS MULHERES
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rzsXrm" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",LUA DE MEL EM LAS VEGAS
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jP0aKU" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",IRONIAS DO AMOR
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rBXKmp" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",TRES MULHERES TRES AMORES
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Gajrz8" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",MEU PRIMEIRO AMOR 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2I8uYVD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",A ULTIMA MISSAO
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rGXP8n" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",JOGANDO COM PRAZER
+http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IcgaVS" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SECRETARIA
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IgQBmD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",TRABALHO SUJO
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KWuNdX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SEXO MENTIRAS E VIDEOTAPE
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Kmq6IX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VESTIGIOS DO DIA
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KkGU3k" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",LENDAS DA PAIXAO
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KSZkt3" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",RAIN MAN
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rF6FV7" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",DESAPARECIDAS
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IdxrOr" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",OS MISERAVEIS
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IismAz" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CODIGO DE HONRA
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wERtMA" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CADA UM VIVE COMO QUER
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GaNMh6" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",AS COISAS IMPOSSIVEIS DO AMOR
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rG2kAQ" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VIDAS QUE SE CRUZAM
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IiCv0a" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",POR AMOR
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IdUN6Q" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",OLIVER
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ie6nii" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",LAUREL CANYON
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Icxx98" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O RANCHO DO AMOR
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IgBtWF" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SETE VIDAS
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KmvqMJ" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",HACKERS: PIRATAS DE COMPUTADOR
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wBNSPf" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O ILUSIONISTA
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rAci6X" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O RESGATE DE UM CAMPEAO
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KYe89L" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CAMINHOS OPOSTOS
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFPlPF" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O SEGREDO DE BROKEBACK MOUNTAIN
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GfmIgD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O CASAMENTO DE RACHEL
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IyefKX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",APENAS UMA VEZ
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ij6zJ7" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",COMO SE FOSSE A PRIMEIRA VEZ
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IjHIVx" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",ATRAIDOS PELO DESTINO
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KlrsUr" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rGxW9v" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CONTATOS IMEDIATOS DE TERCEIRO GRAU
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IBtjar" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",AFRICA DOS MEUS SONHOS
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IHmXGD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VIOLACAO DE PRIVACIDADE
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KlzOeL" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O HEROI DA FAMILIA
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GfGMzs" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",HAVEN
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IicEoV" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",ID:FURIA NAS ARQUIBANCADAS
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2GdhodU" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",A JOVEM RAINHA VICTORIA
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rGOkGe" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VICIADO EM SEXO
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KnRoyX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",GRETA
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rCvuAQ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",NA COMPANHIA DO MEDO
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jR0gBT" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",COMPORTAMENTO SUSPEITO
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IbMx2R" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",QUANDO UM ESTRANHO CHAMA
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rCQt5V" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",ESTRADA MALDITA
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2I8tSsY" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O CODIGO DA VINCI
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KfExyE" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",RIOS VERMELHOS
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2I86yLX" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SEM VESTIGIOS
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",LENDA URBANA 3
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",STIGMATA
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KWj2E7" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",QUARENTENA
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wv09ow" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",IDENTIDADE
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Kfzuy2" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CATIVEIRO
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KeQl44" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",ENQUANTO ELA ESTA FORA
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rA7YVe" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",A VOLTA DOS MORTOS VIVOS
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rDoVgv" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",FIDO O MASCOTE
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wIxs7E" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O APRENDIZ
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhpAvc" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",GAROTAS SELVAGENS 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IjkHlE" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SEDUTORA E DIABOLICA
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KWQBWR" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",12 HORAS
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhqXtW" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",8 MILIMETROS
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jTvxUL" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",8 MILIMETROS 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rDrm3E" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",COISAS BELAS E SUJAS
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jVq2VC" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",FEMME FATALE
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KkFdms" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",INOCENTE OU CULPADO
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2jV4OqZ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",LUTA PELA LIBERDADE
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFyOeJ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SEDUCAO FATAL
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wDoFnt" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",EU SEI QUEM ME MATOU
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2IzaPHP" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",OS MENSAGEIROS
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wJaKwa" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O ALBERGUE 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wDk3hs" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",A MORTE DO DEMONIO
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KYhFov" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",LENDA URBANA 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFYeJf" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O GRITO 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2ICeFzT" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CHRISTINE
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wD95IB" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",BRINQUEDO ASSASSINO
+http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2ImDsnZ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",NAO ADIANTA FUGIR
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2wNTF4D" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",TENTACULOS
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFohQt" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SUPERNOVA
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Iy6mFl" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",EXISTENZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Gd6818" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",FANTASMAS DE MARTE
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KmDgWG" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CRASH:NO LIMITE
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2KhDcao" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CACADA SEM TREGUAS
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Kkppjr" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O COLECIONADOR DE OSSOS
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
+
+#EXTINF:-1,Motoqueiro Fantasma fi
+http://media-br-am.crackle.com/1/i/56/ir1lf_480p.mp4
+
+#EXTINF:-1,Adrenalina 2 Alta Voltagem fi
+http://media-br-am.crackle.com/1/k/96/0z1lf_480p.mp4
+
+#EXTINF:-1,Ameaca Virtual fi
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4
+
+#EXTINF:-1,As Panteras fi
+http://media-br-am.crackle.com/1/8/16/3p1lf_480p.mp4
+
+#EXTINF:-1,Atirador 3 fi
+http://media-br-am.crackle.com/1/2/r6/ihvlf_480p.mp4
+
+#EXTINF:-1,Um Tira Muito Suspeito fi
+http://media-br-am.crackle.com/1/f/h6/75vlf_480p.mp4
+
+#EXTINF:-1,Zohan Agente Bom de Corte fi
+http://media-br-am.crackle.com/1/u/96/531lf_480p.mp4
+
+#EXTINF:-1,Nem por cima do Meu Cadaver fi
+http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4
+
+#EXTINF:-1,Street Fighter A ultima Batalha fi
+http://media-br-am.crackle.com/1/x/d6/w0vlf_480p.mp4
