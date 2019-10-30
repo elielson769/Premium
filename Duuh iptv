@@ -2,8 +2,6 @@
 
 
 
-
-
 #EXTINF: -1 tvg-ID = "globo" tvg-name = "Globo HD" group-title = "Canais Abertos", Globo SP HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/globorj_bc15c774_25d2d0a1010aeeb69ad9d42e4a422b11d977f942.m3u8
 #EXTINF: -1 tvg-ID = "history" tvg-name = "History HD" group-title = "Documentários", History HD | TechRuthes.com
