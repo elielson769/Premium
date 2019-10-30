@@ -5,151 +5,98 @@
 
 
 #EXTINF: -1 tvg-ID = "globo" tvg-name = "Globo HD" group-title = "Canais Abertos", Globo SP HD | TechRuthes.com
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_fe9b092b94924304eb7d01970eeef423cd0db82e.m3u8
-
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/globorj_bc15c774_25d2d0a1010aeeb69ad9d42e4a422b11d977f942.m3u8
 #EXTINF: -1 tvg-ID = "history" tvg-name = "History HD" group-title = "Documentários", History HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/historyopcao2_00a8a5c3_b7dca7971a351c8aabc371f7a3e6d4b29e7b07b6/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "h2" tvg-name = "H2 HD" group-title = "Documentários", H2 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/h2_2bfba6b3_df0da9da37a71c534b3efef64797bfe536a37bfa.m3u8
-
-#EXTINF: -1 tvg-ID = "animalplanet" tvg-name = "Animal Planet HD" group-title = "Documentários", Animal Planet HD | TechRuthes.com
+#EXTINF: -1 tvg-ID = "animalplanet" tvg-name = "Animal Planet HD" group-title = "Documentários", Animal Planet  | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:192.99.169.90/animalplanet_e114c448_ae2c34ef2624f9e16541581176df4c6a8a8e2de7/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "discoverychannel" tvg-name = "Discovery Channel FHD" group-title = "Documentários", Discovery Channel FHD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverychannel_af3e1334_6a33b32944519d11ad61dda6f83b34a08c9a1bd8/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "discoverycivilzation" tvg-name = "Discovery Civilzation HD" group-title = "Documentários", Discovery Civilzation HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverycivilization_2473f015_3774c13069bd3114f3de731d1c3dce5da33e7232.m3u8
-
 #EXTINF: -1 tvg-ID = "discoveryscience" tvg-name = "Discovery Science HD" group-title = "Documentários", Discovery Science HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/discoveryscience_77c8184f_ae1cef5bd6d11300e5a09225e659e162e67e6d7c.m3u8
-
 #EXTINF: -1 tvg-ID = "discoverytheater" tvg-name = "Discovery Theater HD" group-title = "Documentários", Discovery Theater HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverytheater_904f2cc1_52469eba5317f5f134418db75d4e1ac8f55c7b97.m3u8
-
 #EXTINF: -1 tvg-ID = "discoverytheater" tvg-name = "Discovery Theater" group-title = "Documentários", Discovery Theater | TechRuthes.com
-http://play.starbr.top/live/admteste20/extreme21/20807.m3u8
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverytheater_904f2cc1_52469eba5317f5f134418db75d4e1ac8f55c7b97.m3u8
 #EXTINF: -1 tvg-ID = "natgeowild" tvg-name = "Natgeo Wild" group-title = "Documentários", Natgeo Wild | TechRuthes.com
-http://play.starbr.top/live/admteste20/extreme21/995.m3u8
-
+http://edge-aws.aovivo.club:80/hls/s:192.99.169.90/natgeowild_e4dd8a3f_13e56759c74b3fde4b4a14e69fc3f4a33e7141d6/480p/chunklist.m3u8
 #EXTINF: -1 tvg-ID = "nationalgeographics" tvg-name = "National Geographics HD" group-title = "Documentários", National Geographics HD | TechRuthes.com
-http://play.starbr.top/live/admteste20/extreme21/990.m3u8
-
-#EXTINF: -1 tvg-ID = "id" tvg-name = "ID" group-title = "Documentários", ID | TechRuthes.com
-http://play.starbr.top/live/admteste20/extreme21/1011.m3u8
-
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/nationalgeographic_2e01e174_5aacc536ef250d0e8ff4d945f69a562f4b114f89.m3u8
 #EXTINF: -1 tvg-ID = "fox" tvg-name = "Fox" group-title = "Filmes e séries", Fox HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_75b245f91cbdc5c54501d973729d50f89818603f/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "foxpremium1" tvg-name = "Fox Premium 1" group-title = "Filmes e séries", Fox Premium 1 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/foxpremium1_1bdf1a2f_bd8227acaf178b1f09d9741476d822db511b3dd2.m3u8
-http://play.starbr.top/live/admteste20/extreme21/20816.m3u8
-http://play.starbr.top/live/admteste20/extreme21/2470.m3u8
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_bd8227acaf178b1f09d9741476d822db511b3dd2.m3u8
 #EXTINF: -1 tvg-ID = "hbo" tvg-name = "HBO HD" group-title = "Filmes e séries", HBO HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_474a147261d937856b8e920f8e717f74eed9e17e.m3u8
-
 #EXTINF: -1 tvg-ID = "hbo2" tvg-name = "HBO 2 HD" group-title = "Filmes e séries", HBO 2 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_2abf9e434cf5cb0461038f85589fd4875f84986b/playlist.m3u
-
 #EXTINF: -1 tvg-ID = "hboplus" tvg-name = "HBO Plus HD" group-title = "Filmes e séries", HBO Plus HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_ff0dbc8f89b954be2c1c30f106878e87633a4b2c.m3u8
-
 #EXTINF: -1 tvg-ID = "hbofamily" tvg-name = "Família HBO HD" group-title = "Filmes e Séries", Família HBO HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_4facd2e9d60e614fe7ae62a24db4619365d03b15/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "hbosignature" tvg-name = "HBO Signature HD" group-title = "Filmes e séries", HBO Signature HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/hbosignature720p_fa1a6512_78681c66d790468c3a4cb46de165c2999b74e0d0.m3u8
-
 #EXTINF: -1 tvg-ID = "tcpremium" tvg-name = "Telecine Premium HD" group-title = "Filmes e Séries", Telecine Premium HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/telecinepremiumhd_a8a2b30f_96fd51350a42808635ab2db271a3c44c20672e91.m3u8
-
 #EXTINF: -1 tvg-ID = "tcpipoca" tvg-name = "Telecine Pipoca HD" group-title = "Filmes e Séries", Telecine Pipoca HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_8afd2fad0ee59ab1b1dbcd14f464788cf1433156/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "tcfun" tvg-name = "Telecine Fun HD" group-title = "Filmes e séries", Telecine Fun HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinefun_ae1e7198_5c1d820f070c514b5c57cdba93d631b2d527e9da/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "tctouch" tvg-name = "Telecine Touch HD" group-title = "Filmes e séries", Telecine Touch HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/telecinetouch_74cbd2c2_4f2619ff4dffca5d0efc0c82b1c1ab225df59284.m3u8
-
 #EXTINF: -1 tvg-ID = "space" tvg-name = "Space HD" group-title = "Filmes e séries", Space HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/space_e6c3dd63_1e52728a466101e98a89d1ad71ff4ee8f8f717cc.m3u8
-
 #EXTINF: -1 tvg-ID = "paramount" tvg-name = "Paramount HD" 
 group-title = "Filmes e séries", Paramount HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/paramountchannel_efa260ad_91f8e4b52f752550392bfbc71fa12ab427ba9e7a.m3u8
-
 #EXTINF: -1 tvg-ID = "sony" tvg-name = "Sony HD" group-title = "Filmes e séries", Sony HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_b9cc6afb32dd50cd804abd73cd6dd7f7152c1073/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "studio" tvg-name = "Studio Universal HD" group-title = "Filmes e séries", Studio Universal HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:192.99.169.90/universalchannel_8290abc6_e30302dca9c24121a4f0aa5fb3c1e6469e347862/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "boomberang" tvg-name = "Boomerang HD" group-title = "Infantis", Boomerang HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_67bee39bd1ee954233d43ae39f4bdeba67888899/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "cartoonnetwork" tvg-name = "Cartoon Network HD" group-title = "Infantis", Cartoon Network HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/cartoonnetwork_511a418e_7268a71709b58381f629df1a40db8824ff024612/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "discoverykids" tvg-name = "Discovery Kids HD" group-title = "Infantis", Discovery Kids HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:192.99.169.90/discoverykids_80e28a51_95b907a01f4a7f8e97a1c21f22296134afd868a8/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "disneychannel" tvg-name = "Disney Channel HD" group-title = "Infantis", Disney Channel HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/disneychannel_a9334987_4ed383d299aa6d07924f236282d1094d47e22270/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "disneyjr" tvg-name = "Disney Jr HD" group-title = "Infantis", Disney Jr HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:192.99.169.90/disneyjunior_572e2073_8a1a4a109b45d71586c24b90c0c22497503895d9/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "nick" tvg-name = "Nick HD" group-title = "Infantis", Nick HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:192.99.169.90/nickjr_54ceb912_ad918186f6028b45a8306069efdfb2dc998471bb/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "foxsports" tvg-name = "Fox Sports" group-title = "Esportes", Fox Sports HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_ec45c22ac51cf530f243e794c7669490df56470f/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "foxsports" tvg-name = "Fox Sports" group-title = "Esportes", Fox Sports 2 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_7de5dac0f6efed47219cc4dae4f40a233814fa9f.m3u8
-
 #EXTINF: -1 tvg-ID = "sportv" tvg-name = "SporTV" group-title = "Esportes", SporTV HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_5858ca8c1b7be1cd0e32e510c108497d7cafc91f/playlist.m3u8
-
 #EXTINF: -1 tvg-ID = "sportv2" tvg-name = "SporTV 2" group-title = "Esportes", SporTV 2 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_543c0249aad5750364fea4c02910b973560d9825.m3u8
-
 #EXTINF: -1 tvg-ID = "sportv2" tvg-name = "SporTV 3" group-title = "Esportes", SporTV 3 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv3_e1a864f0_ea41a7710407d2e6762c2dead24f426b2b7f7d93.m3u8
-
 #EXTINF: -1 tvg-ID = "espn" tvg-name = "ESPN" group-title = "Esportes", ESPN HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/espn_6c1e671f_f3e93c7b6639411c54d2a5598402f8641825b741.m3u8
-
 #EXTINF: -1 tvg-ID = "espnbrasil" tvg-name = "ESPN BrasilL" group-title = "Esportes", ESPN Brasil | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/espnbrasil_2a459380_6378a17686ed58d9ee89270af0c411c8c84b42e8.m3u8
-
 #EXTINF: -1 tvg-ID = "combate" tvg-name = "Combate" group-title = "Esportes", Combate HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/combate_ac3478d6_b0b967ecd2d79f38808ccb3431019f5a683d6c86.m3u8
-
-#EXTINF: -1 tvg-ID = "premiereclubes" tvg-name = "Premiere Clubes" group-title = "Esportes", Premiere Clubes FHD | TechRuthes.com
-http://play.starbr.top/live/admteste20/extreme21/5065.m3u8
-
 #EXTINF: -1 tvg-ID = "premiereclubes" tvg-name = "Premiere Clubes" group-title = "Esportes", Premiere Clubes HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_44d7206436986e4dd73259474c0609c842a10ea9.m3u8
-
 #EXTINF: -1 tvg-ID = "premiere2" tvg-name = "Premiere 2" group-title = "Esportes", Premiere 2 FHD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere2_f5b68d74_18fe16bd805d07f52dd1b209c23a69cc75c3aa04.m3u8
-
 #EXTINF: -1 tvg-ID = "premiere3" tvg-name = "Premiere 3" group-title = "Esportes", Premiere 3 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere3_b903ea63_f1a63a38b4ea0dbced43e06ffb22dab03375793a.m3u8
-
 #EXTINF: -1 tvg-ID = "premiere4" tvg-name = "Premiere 4" group-title = "Esportes", Premiere 4 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere4_142e9ae3_223bd1d0c3001e10ea06df033064277faa11c2e1.m3u8
-
 #EXTINF: -1 tvg-ID = "premiere5" tvg-name = "Premiere 5 HD" group-title = "Esportes", Premiere 5 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere5_0486ffb0_1ffd08ded4822ccc09af0ed80c6640fa750ed9c1.m3u8
-
 #EXTINF: -1 tvg-ID = "premiere6" tvg-name = "Premiere 6 HD" group-title = "Esportes", Premiere 6 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere6_8a279e5c_4d7dca554151016aed0c0bdeb1a2dd9936b78cfc.m3u8
-
 #EXTINF: -1 tvg-ID = "premiere7" tvg-name = "Premiere 7 HD" group-title = "Esportes", Premiere 7 HD | TechRuthes.com
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_1d7705fddd903b8f40dd6fac9e3be44aeea8b25f.m3u8
