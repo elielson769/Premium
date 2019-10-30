@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-id="SBT " tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT HD 
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/sbtsp_2a5ac580_1304b59be4aa7a86ec2bae1fb4fd8333693513c8/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", GLOBO
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/GLOBO_cfe21c68_fe9b092b94924304eb7d01970eeef423cd0db82e.m3u8
 
@@ -13,10 +12,8 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_5bbdfd5c4c9de8d6
 #EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/tntla-main-theme/images/custom/thumb.jpg" group-title="Canais", TNT
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/TNT_9109c85a_ec9c998bc8dd580523c1b6149ae130ffc8ea34c1.m3u8
 
-
 #EXTINF:-1 tvg-id="SBT GO" tvg-logo="https://media.lovemondays.com.br/logos/e7f696/redetv-1-original.png" group-title="Canais", Rede TV
 http://edge-aws.aovivo.club/hls/s:173.230.130.70/redetv_45cbe19f_20681dd96290854a7696448cab50d4350ed56ab4/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", COMBATE
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/combate_ac3478d6_b0b967ecd2d79f38808ccb3431019f5a683d6c86.m3u8
@@ -33,26 +30,17 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_543c024
 EXTINF:-1 tvg-id="PREMIERE CLUB" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", PREMIERE CLUB
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_44d7206436986e4dd73259474c0609c842a10ea9.m3u8
 
-
 EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", COMBATE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/PREMIERE 7_0b6a6376_1d7705fddd903b8f40dd6fac9e3be44aeea8b25f.m3u8
 
-
 EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", PREMIERE 7
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_1d7705fddd903b8f40dd6fac9e3be44aeea8b25f.m3u8
-
-
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_1d7705fddd903b8f40dd6fac9e3be44aeea8b25f.m3
 
 EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", PREMIERE 5
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere5_0486ffb0_1ffd08ded4822ccc09af0ed80c6640fa750ed9c1.m3u8
-
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere5_0486ffb0_1ffd08ded4822ccc09af0ed80c6640fa750ed9c1.m3u
 
 EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", PREMIERE 4
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere4_142e9ae3_223bd1d0c3001e10ea06df033064277faa11c2e1.m3u8
-
-
 
 EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", PREMIERE 3
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere3_b903ea63_f1a63a38b4ea0dbced43e06ffb22dab03375793a.m3u8
