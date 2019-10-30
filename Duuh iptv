@@ -1,1 +1,2 @@
-#EXTM3U #EXTINF:-1http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremium_a929eb33_9acd1ace47cf7a1912bb63b479fcdd8ce7618ecc/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-id="A Fazenda 11 [Alter]" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11 [Alter] https://live.multicanais.com/live/globosphd/chunks.m3u8?
