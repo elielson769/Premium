@@ -1,5 +1,135 @@
-#EXTINF:-1http://edge-aws.aovivo.club/hls/s:78.47.3.135/globosp_cfe21c68_fe9b092b94924304eb7d01970eeef423cd0db82e.m3u8
+#EXTM3U
 
-#EXTINF:-1http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_5858ca8c1b7be1cd0e32e510c108497d7cafc91f/playlist.m3u8
 
-#EXTINF:-1http://edge-aws.aovivo.club/hls/s:192.99.169.90/telecinepipoca_fd937516_f5b776dcb8e4af928efbfd796c3babf64c1b4430/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="CANAIS DE TV",[COLOR blue](CANAIS DE TV) [/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/IV8dy" group-title="DIAR LIMA",[COLOR blue] facebook.com/DIAR LIMA[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sc4RXb" group-title="DIAR LIMA",[COLOR blue] (GRUPO FACEBOOK.COM/DIAR LIMA TUDO SOBRE IPTV)[/COLOR]
+http://
+
+#EXTINF:1 tvg-logo="https://goo.gl/jNoUiT" group-title="WHATSAPP",[COLOR orange] (WHATSAP 88992751575)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/R9kwIB" group-title="FAÇA UMA DOACAO",[COLOR orange](FAÇA UMA DOAÇÃO AGENCIA 0554 CONTA P 00242748-0 CAIXA ECONOMICA ) [/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/bOlrDu" group-title="AJUDE A CONTINUAR ESSE TRABALHO",[COLOR orange](AJUDE A CONTINUAR ESSE TRABALHO)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jcJhyU" group-title="",[COLOR red](AVISE NOS DE CANAIS OFF )[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1xSetycix28/maxresdefault.jpg" group-title="ATUALIZADO",[COLOR red](ATUALIZADO 30/03/17)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KaFQH4" group-title="Reality",[COLOR orange](REALITY BBB 17)[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="Reality",BBB 17 [COLOR orange](ON)[/COLOR]
+http://bit.ly/2nqvRuG
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="Reality",BBB 17 [COLOR orange](ON)[/COLOR]
+http://tv.redecanais.com:1935/rcbbb/myStream/chunklist_www.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/qOzaVd"group-title="CANAIS ABERTO",[COLOR orange] (CANAIS ABERTO)[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO SP [COLOR orange](ON)[/COLOR]
+http://95.211.149.215:8081/look/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",GLOBO RJ [COLOR orange](ON)[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO [COLOR orange](ON)[/COLOR]
+http://tv.redecanais.com:1935/rcbobo/myStream/chunklist_www.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FeAQm1" group-title="TV ABERTA",GLOBO PREMIUM [COLOR orange](ON)[/COLOR]
+http://zip.net/bltFjv
+
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png" group-title="VARIEDADES",VIVA  HD [COLOR orange](ON)[/COLOR]
+http://m3u.me/baQ
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT SP [COLOR orange](ON)[/COLOR]
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT HD [COLOR orange](ON)[/COLOR]
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="", SBT  [COLOR orange](ON)[/COLOR]
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" group-title="CANAL ABERTO",SBT PI[COLOR orange](ON)[/COLOR]
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="CANAL ABERTO", SBT PB [COLOR orange](ON)[/COLOR]
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT RS [COLOR orange](ON)[/COLOR]
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT CARUARU [COLOR orange](ON)[/COLOR]
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ig4JdX" group-title="NOTICIAS",BAND NEWS [COLOR orange](ON)[/COLOR]
+http://5.79.68.138:8081/look/bandnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND SP [COLOR orange](ON)[/COLOR]
+http://5.79.68.138:8081/look/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND [COLOR red](OFF)[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND PARÁ [COLOR orange](ON)[/COLOR]
+http://evce.mm.uol.com.br:1935/band/band.smil/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="band",BAND VIA MORENA [COLOR orange](ON)[/COLOR]
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="",BAND [COLOR orange](ON)[/COLOR]
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/sR9hSAYmhq/eyVOxg3CkXmhVvFZ.png" group-title="CANAL ABERTO",REDETV HD [COLOR orange](ON)[/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/r2wU9uyHvS/L8At8iKsPCP7tRGt.png" group-title="CANAL ABERTO",REDETV RN [COLOR orange](ON)[/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",REDE TV PR [COLOR orange](ON)[/COLOR]
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://lut.im/dVGvRFx4zd/9DR8ZGuDFAvXaMcp.png" group-title="CANAL ABERTO",REDETV ARAPUAN -  PB [COLOR orange](ON)[/COLOR]
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/A5lt2LXanv/Lfwm9l9SZfzOfoi9.png" group-title="JORNALISMO", RECORD NEWS TO [COLOR orange](ON)[/COLOR]
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P0XMqwI.jpg" group-title="ABERTAS-NOTICIAS",RECORD NEWS [COLOR orange](ON)[/COLOR]
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",RECORD SP [COLOR orange](ON)[/COLOR]
+http://5.79.68.138:8081/look/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",RECORD [COLOR orange](ON)[/COLOR]
+http://178.39.64.103:9000/play/a004
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="CANAL ABERTO", RECORD (opção 02) [COLOR orange](ON)[/COLOR]
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/44uGKRTU0x/96UUnFZAYBfXuppf.png" group-title="CANAL ABERTO", TV VITORIA RECORD ES HD [COLOR orange](ON)[/COLOR]
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto", RECORD HD [COLOR orange](ON)[/COLOR]
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto" , RECORD (AM) [COLOR orange](ON)[/COLOR]
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2143012/e/0_dm4rwkh4/t/BEPMXlN7c-EKVDYFPMUGzg/index-s32-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto" , RECORD (PB) [COLOR orange](ON)[/COLOR]
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redemeionorte.png" group-title="Abertos", REDE MEIO NORTE  [COLOR orange](ON)[/COLOR]
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/39pLYC1PRJ/0pjAT8CBbwj7fYMU.png" group-title="CANAL ABERTO", TV CORREIO PB [COLOR orange](ON)[/COLOR]
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
