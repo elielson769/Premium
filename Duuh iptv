@@ -1,1 +1,13 @@
-#EXTINF:-1 type="stream" tvg-id="globo [Alter]" tvg-logo=".png"    https://www.google.com/search?client=ms-android-xiaomi-rev1&sxsrf=#imgrc=Aj9dVg3IswjgqM:       globo [Alter] https://live.multicanais.com/live/globosphd/chunks.m3u8?
+
+# EXTM3U
+#EXTINF: -1 tvg-id = "Globo - São Paulo [Brasil]" tvg-name = "Globo" tvg-logo = "http://s17.postimg.org/w75u3yg1n/globo2.png" group-title = "Canais abertos", Globo
+http://www.iptvip.com:25461/live/suportetvclick@gmail.com05/w2ZXCPwBa5/223.ts
+#EXTINF: -1 tvg-id = "" tvg-name = "Record HD" tvg-logo = "" group-title = "Canais abertos", Record HD
+http://www.iptvip.com:25461/live/suportetvclick@gmail.com05/w2ZXCPwBa5/290.ts
+#EXTINF: -1 tvg-id = "" tvg-name = "Rede TV HD" tvg-logo = "" group-title = "Canais abertos", Rede TV HD
+http://www.iptvip.com:25461/live/suportetvclick@gmail.com05/w2ZXCPwBa5/289.ts
+#EXTINF: -1 tvg-id = "" tvg-name = "SBT HD" tvg-logo = "" group-title = "Canais abertos", SBT HD
+http://www.iptvip.com:25461/live/suportetvclick@gmail.com05/w2ZXCPwBa5/288.ts
+#EXTINF: -1 tvg-id = "" tvg-name = "Banda HD" tvg-logo = "" group-title = "Canais abertos", banda HD
+http://www.iptvip.com:25461/live/suportetvclick@gmail.com05/w2ZXCPwBa5/334.ts
+#EXTINF: -1 tvg-id = "Telecine Premium [Brasil]" tvg-name = "Telecine Premium" tvg-logo = "http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title = " Filmes e Séries ", Telecine Premium
