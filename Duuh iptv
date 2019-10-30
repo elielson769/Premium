@@ -1,607 +1,517 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhnZqb" group-title="FILMES" pltv-subgroup="ACAO",JUSTICA VERMELHA
-http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wuEKvT" group-title="FILMES" pltv-subgroup="ACAO",A BEIRA DO ABISMO
-http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jR9Mok" group-title="FILMES" pltv-subgroup="ACAO",ESTRANHA OBSESSAO
-http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih2qoO" group-title="FILMES" pltv-subgroup="ACAO",RICKY BOBBY A TODA VELOCIDADE
-http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jRASvO" group-title="FILMES" pltv-subgroup="ACAO",O ULTIMO GRANDE HEROI
-http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdA2rX" group-title="FILMES" pltv-subgroup="ACAO",AS DUAS FACES DA LEI
-http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GdmQ0d" group-title="FILMES" pltv-subgroup="ACAO",REDE DE INTRIGAS
-http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iz4j3P" group-title="FILMES" pltv-subgroup="ACAO",SEM SAIDA
-http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rDuht8" group-title="FILMES" pltv-subgroup="ACAO",ACIMA DA LEI
-http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih59P3" group-title="FILMES" pltv-subgroup="ACAO",A INFORMANTE
-http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rG9hkz" group-title="FILMES" pltv-subgroup="ACAO",O PODER DA CORRUPCAO
-http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rEvdNL" group-title="FILMES" pltv-subgroup="ACAO",HOMENS PERIGOSOS
-http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgiOpv" group-title="FILMES" pltv-subgroup="ACAO",SEQUESTRO DO METRO 123
-http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGWoYk" group-title="FILMES" pltv-subgroup="ACAO",GUERRA AO TERROR
-http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rBmZFs" group-title="FILMES" pltv-subgroup="ACAO",OURO BRANCO
-http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmosqZ" group-title="FILMES" pltv-subgroup="ACAO",RED
-http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2ICJF2M" group-title="FILMES" pltv-subgroup="ACAO",RESIDENT EVIL:O HOSPEDE MALDITO
-http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdLkMK" group-title="FILMES" pltv-subgroup="ACAO",RESIDENT EVIL:APOCALIPSE
-http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kmnj2q" group-title="FILMES" pltv-subgroup="ACAO",RESIDENT EVIL:EXTINCAO
-http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GcSknn" group-title="FILMES" pltv-subgroup="ACAO",TORTURADO
-http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IeUokD" group-title="FILMES" pltv-subgroup="ACAO",ANJOS DA NOITE:EVOLUCAO
-http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFMer9" group-title="FILMES" pltv-subgroup="ACAO",ANJOS DA NOITE:REBELIAO
-http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GehzWj" group-title="FILMES" pltv-subgroup="ACAO",HANCOCK
-http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jYRHVr" group-title="FILMES" pltv-subgroup="ACAO",ROCKY BALBOA
-http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWZAXQ" group-title="FILMES" pltv-subgroup="ACAO",FUGA DE ABSOLOM
-http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KlqoQr" group-title="FILMES" pltv-subgroup="ACAO",ROBOCOP: O POLICIAL DO FUTURO
-http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KiB6aA" group-title="FILMES" pltv-subgroup="ACAO",ROBOCOP 2
-http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2L0DPGQ" group-title="FILMES" pltv-subgroup="ACAO",ROBOCOP 3
-http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Im3qIi" group-title="FILMES" pltv-subgroup="ACAO",HEROIS
-http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KkpZh7" group-title="FILMES" pltv-subgroup="ACAO",O GRANDE ANJO NEGRO
-http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wG1fxR" group-title="FILMES" pltv-subgroup="ACAO",EQUILIBRIUM
-http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IeMnfv" group-title="FILMES" pltv-subgroup="ACAO",SKYLINE:A INVASAO
-http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wIb2Uk" group-title="FILMES" pltv-subgroup="ACAO",TEMPOS DE VIOLENCIA
-http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGGOvY" group-title="FILMES" pltv-subgroup="ACAO",ESPIAO POR ACIDENTE
-http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jYTPwp" group-title="FILMES" pltv-subgroup="ACAO",LAGRIMAS DO SOL
-http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Klxbtp" group-title="FILMES" pltv-subgroup="ACAO",SOLDADO UNIVERSAL 3
-http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IeWfG7" group-title="FILMES" pltv-subgroup="ACAO",TRIPLO X
-http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTTFqg" group-title="FILMES" pltv-subgroup="ACAO",TRIPLO X:ESTADO DE EMERGENCIA
-http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhyTvK" group-title="FILMES" pltv-subgroup="ACAO",O HOMEM SOMBRA
-http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IcSYXv" group-title="FILMES" pltv-subgroup="ACAO",REPLICANTE
-http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IkdxgS" group-title="FILMES" pltv-subgroup="ACAO",O FORASTEIRO 2
-http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wNXk2n" group-title="FILMES" pltv-subgroup="ACAO",SOU ESPIAO
-http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ge9v7Y" group-title="FILMES" pltv-subgroup="ACAO",ASSALTO SOBRE TRILHOS
-http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rB6dqT" group-title="FILMES" pltv-subgroup="ACAO",EXCESSO DE BAGAGEM
-http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdEUgF" group-title="FILMES" pltv-subgroup="ACAO",VINGANCA
-http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IERyod" group-title="FILMES" pltv-subgroup="ACAO",O SENHOR DAS ARMAS
-http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmegPe" group-title="FILMES" pltv-subgroup="ACAO",WASABI
-http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmleDW" group-title="FILMES" pltv-subgroup="ACAO",HORAS DE DESESPERO
-http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTsqMr" group-title="FILMES" pltv-subgroup="ACAO",UM TIRA POR ACASO
-http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KZiE7X" group-title="FILMES" pltv-subgroup="ACAO",SWAT:COMANDO ESPECIAL
-http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rEDSjw" group-title="FILMES" pltv-subgroup="ACAO",A ERA DA ESCURIDAO
-http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IBp3rt" group-title="FILMES" pltv-subgroup="ACAO",CAES DE GUERRA
-http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wNZcbp" group-title="FILMES" pltv-subgroup="ACAO",CONQUISTA SANGRENTA
-http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2L0688m" group-title="FILMES" pltv-subgroup="ACAO",DESAFIO RADICAL
-http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jUzg4r" group-title="FILMES" pltv-subgroup="ACAO",DIVISAO DE HOMICIDIOS
-http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rH9xjw" group-title="FILMES" pltv-subgroup="ACAO",GODZILLA
-http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmFXrg" group-title="FILMES" pltv-subgroup="ACAO",IMPACTO MORTAL:A VINGANCA
-http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wJTfMC" group-title="FILMES" pltv-subgroup="ACAO",KARATE KID 3
-http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rEq48y" group-title="FILMES" pltv-subgroup="ACAO",MATADOR DE ALUGUEL
-http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Id6MBj" group-title="FILMES" pltv-subgroup="ACAO",A PRIMEIRA GRANDE DESCIDA
-http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2L0FbkD" group-title="FILMES" pltv-subgroup="ACAO",O GUARDIAO
-http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jWnw16" group-title="FILMES" pltv-subgroup="ACAO",O GUARDIAO 2
-http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ie6bQ1" group-title="FILMES" pltv-subgroup="ACAO",O GUARDIAO 3
-http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ik5Y9Z" group-title="FILMES" pltv-subgroup="ACAO",O LEGIONARIO
-http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rC2FVk" group-title="FILMES" pltv-subgroup="COMEDIA",BRUNO
-http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kh5UIB" group-title="FILMES" pltv-subgroup="COMEDIA",O ABC DO AMOR
-http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wHBsFR" group-title="FILMES" pltv-subgroup="COMEDIA",JUNO
-http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rG6BDQ" group-title="FILMES" pltv-subgroup="COMEDIA",AS BRANQUELAS
-http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wwYrmJ" group-title="FILMES" pltv-subgroup="COMEDIA",UM SALAO DO BARULHO
-http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2I8WjXM" group-title="FILMES" pltv-subgroup="COMEDIA",LEMBRANCAS DE HOLLYWOOD
-http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCScZy" group-title="FILMES" pltv-subgroup="COMEDIA",OS SEUS OS MEUS OS NOSSOS
-http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rAxetC" group-title="FILMES" pltv-subgroup="COMEDIA",OS PRODUTORES
-http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IuOLOx" group-title="FILMES" pltv-subgroup="COMEDIA",JOGUE A MAMAE DO TREM
-http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IbHAqT" group-title="FILMES" pltv-subgroup="COMEDIA",FEITICO DA LUA
-http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdMpjv" group-title="FILMES" pltv-subgroup="COMEDIA",EU MINHA MULHER E MINHAS COPIAS
-http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7Zwkp" group-title="FILMES" pltv-subgroup="COMEDIA",UM DIA DE LOUCO
-http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7sTUa" group-title="FILMES" pltv-subgroup="COMEDIA",SUPERBAD
-http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iwv8W5" group-title="FILMES" pltv-subgroup="COMEDIA",UMA FESTA NO AR
-http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KgimIC" group-title="FILMES" pltv-subgroup="COMEDIA",KUNG FUSAO
-http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rC48tQ" group-title="FILMES" pltv-subgroup="COMEDIA",O OPOSTO DO SEXO
-http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KdU0iz" group-title="FILMES" pltv-subgroup="COMEDIA",O PARAISO E LOGO AQUI
-http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KSekXY" group-title="FILMES" pltv-subgroup="COMEDIA",NEM POR CIMA DO MEU CADAVER
-http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhwqkI" group-title="FILMES" pltv-subgroup="COMEDIA",ADEUS AMOR
-http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wzcIPF" group-title="FILMES" pltv-subgroup="COMEDIA",KUNG FU FUTEBOL CLUBE
-http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCtwQp" group-title="FILMES" pltv-subgroup="COMEDIA",A HERANCA DE MR DEEDS
-http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wyPwBo" group-title="FILMES" pltv-subgroup="COMEDIA",ALMONDEGAS 4
-http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IzqNBq" group-title="FILMES" pltv-subgroup="COMEDIA",BOLAS EM PANICO
-http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7qQPX" group-title="FILMES" pltv-subgroup="COMEDIA",COMO CONQUISTAR UMA MULHER
-http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KZdzMU" group-title="FILMES" pltv-subgroup="COMEDIA",NAO MAIS UM BESTEIROL AMERICANO
-http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhkOOi" group-title="FILMES" pltv-subgroup="COMEDIA",O JULGAMENTO DE PARIS
-http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFlMgx" group-title="FILMES" pltv-subgroup="COMEDIA",O PAIZAO
-http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhzKMv" group-title="FILMES" pltv-subgroup="COMEDIA",PROCURANDO ENCRENCA
-http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyBILQ" group-title="FILMES" pltv-subgroup="COMEDIA",QUASE ILEGAL
-http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IltRha" group-title="FILMES" pltv-subgroup="COMEDIA",VAMOS NESSA
-http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GctbsS" group-title="FILMES" pltv-subgroup="COMEDIA",AMIGAS COM DINHEIRO
-http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ig4lKj" group-title="FILMES" pltv-subgroup="COMEDIA",A GRANDE JOGADA
-http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KX8x3i" group-title="FILMES" pltv-subgroup="COMEDIA",SEIS GRAUS DE SEPARACAO
-http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhEBOr" group-title="FILMES" pltv-subgroup="COMEDIA",DOUTOR FANTASTICO
-http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTBila" group-title="FILMES" pltv-subgroup="COMEDIA",PEGAR E LARGAR
-http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jQn1pB" group-title="FILMES" pltv-subgroup="INFANTIL",ANNIE
-http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jOIXkI" group-title="FILMES" pltv-subgroup="INFANTIL",A PANTERA COR DE ROSA
-http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2If6LJp" group-title="FILMES" pltv-subgroup="INFANTIL",UMA GAROTA ENCANTADA
-http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jQGxSY" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",JANELA SECRETA
-http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCyCg0" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SEGUNDAS INTENCOES 3
-http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jOcxa3" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",DESEJO A TRES
-http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rE0vU6" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",HOTEL RUANDA
-http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhSMmK" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",BONS COSTUMES
-http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7ZXez" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",DE REPENTE 30
-http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IAJJjk" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",ADORAVEIS MULHERES
-http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rzsXrm" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",LUA DE MEL EM LAS VEGAS
-http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jP0aKU" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",IRONIAS DO AMOR
-http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rBXKmp" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",TRES MULHERES TRES AMORES
-http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Gajrz8" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",MEU PRIMEIRO AMOR 2
-http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2I8uYVD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",A ULTIMA MISSAO
-http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGXP8n" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",JOGANDO COM PRAZER
-http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IcgaVS" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SECRETARIA
-http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgQBmD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",TRABALHO SUJO
-http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWuNdX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SEXO MENTIRAS E VIDEOTAPE
-http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kmq6IX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VESTIGIOS DO DIA
-http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KkGU3k" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",LENDAS DA PAIXAO
-http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KSZkt3" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",RAIN MAN
-http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rF6FV7" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",DESAPARECIDAS
-http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdxrOr" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",OS MISERAVEIS
-http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IismAz" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CODIGO DE HONRA
-http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wERtMA" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CADA UM VIVE COMO QUER
-http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GaNMh6" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",AS COISAS IMPOSSIVEIS DO AMOR
-http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rG2kAQ" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VIDAS QUE SE CRUZAM
-http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IiCv0a" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",POR AMOR
-http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdUN6Q" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",OLIVER
-http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ie6nii" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",LAUREL CANYON
-http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Icxx98" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O RANCHO DO AMOR
-http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgBtWF" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",SETE VIDAS
-http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmvqMJ" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",HACKERS: PIRATAS DE COMPUTADOR
-http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wBNSPf" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O ILUSIONISTA
-http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rAci6X" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O RESGATE DE UM CAMPEAO
-http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KYe89L" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CAMINHOS OPOSTOS
-http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFPlPF" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O SEGREDO DE BROKEBACK MOUNTAIN
-http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GfmIgD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O CASAMENTO DE RACHEL
-http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyefKX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",APENAS UMA VEZ
-http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ij6zJ7" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",COMO SE FOSSE A PRIMEIRA VEZ
-http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IjHIVx" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",ATRAIDOS PELO DESTINO
-http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KlrsUr" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",1984
-http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGxW9v" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",CONTATOS IMEDIATOS DE TERCEIRO GRAU
-http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IBtjar" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",AFRICA DOS MEUS SONHOS
-http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IHmXGD" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VIOLACAO DE PRIVACIDADE
-http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KlzOeL" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O HEROI DA FAMILIA
-http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GfGMzs" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",HAVEN
-http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IicEoV" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",ID:FURIA NAS ARQUIBANCADAS
-http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2GdhodU" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",A JOVEM RAINHA VICTORIA
-http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGOkGe" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",VICIADO EM SEXO
-http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KnRoyX" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",GRETA
-http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCvuAQ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",NA COMPANHIA DO MEDO
-http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jR0gBT" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",COMPORTAMENTO SUSPEITO
-http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IbMx2R" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",QUANDO UM ESTRANHO CHAMA
-http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCQt5V" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",ESTRADA MALDITA
-http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2I8tSsY" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O CODIGO DA VINCI
-http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KfExyE" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",RIOS VERMELHOS
-http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2I86yLX" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SEM VESTIGIOS
-http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",LENDA URBANA 3
-http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",STIGMATA
-http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWj2E7" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",QUARENTENA
-http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wv09ow" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",IDENTIDADE
-http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kfzuy2" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CATIVEIRO
-http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KeQl44" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",ENQUANTO ELA ESTA FORA
-http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rA7YVe" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",A VOLTA DOS MORTOS VIVOS
-http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rDoVgv" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",FIDO O MASCOTE
-http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wIxs7E" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O APRENDIZ
-http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhpAvc" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",GAROTAS SELVAGENS 4
-http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IjkHlE" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SEDUTORA E DIABOLICA
-http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWQBWR" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",12 HORAS
-http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhqXtW" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",8 MILIMETROS
-http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTvxUL" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",8 MILIMETROS 2
-http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rDrm3E" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",COISAS BELAS E SUJAS
-http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jVq2VC" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",FEMME FATALE
-http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KkFdms" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",INOCENTE OU CULPADO
-http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jV4OqZ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",LUTA PELA LIBERDADE
-http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFyOeJ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SEDUCAO FATAL
-http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wDoFnt" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",EU SEI QUEM ME MATOU
-http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2IzaPHP" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",OS MENSAGEIROS
-http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wJaKwa" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O ALBERGUE 2
-http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wDk3hs" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",A MORTE DO DEMONIO
-http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KYhFov" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",LENDA URBANA 2
-http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFYeJf" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O GRITO 2
-http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2ICeFzT" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CHRISTINE
-http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wD95IB" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",BRINQUEDO ASSASSINO
-http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2ImDsnZ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",NAO ADIANTA FUGIR
-http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wNTF4D" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",TENTACULOS
-http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFohQt" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",SUPERNOVA
-http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iy6mFl" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",EXISTENZ
-http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Gd6818" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",FANTASMAS DE MARTE
-http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmDgWG" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CRASH:NO LIMITE
-http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhDcao" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",CACADA SEM TREGUAS
-http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kkppjr" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",O COLECIONADOR DE OSSOS
-http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
-
-#EXTINF:-1,Motoqueiro Fantasma fi
-http://media-br-am.crackle.com/1/i/56/ir1lf_480p.mp4
-
-#EXTINF:-1,Adrenalina 2 Alta Voltagem fi
-http://media-br-am.crackle.com/1/k/96/0z1lf_480p.mp4
-
-#EXTINF:-1,Ameaca Virtual fi
-http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4
-
-#EXTINF:-1,As Panteras fi
-http://media-br-am.crackle.com/1/8/16/3p1lf_480p.mp4
-
-#EXTINF:-1,Atirador 3 fi
-http://media-br-am.crackle.com/1/2/r6/ihvlf_480p.mp4
-
-#EXTINF:-1,Um Tira Muito Suspeito fi
-http://media-br-am.crackle.com/1/f/h6/75vlf_480p.mp4
-
-#EXTINF:-1,Zohan Agente Bom de Corte fi
-http://media-br-am.crackle.com/1/u/96/531lf_480p.mp4
-
-#EXTINF:-1,Nem por cima do Meu Cadaver fi
-http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4
-
-#EXTINF:-1,Street Fighter A ultima Batalha fi
-http://media-br-am.crackle.com/1/x/d6/w0vlf_480p.mp4
+# EXTM3U
+#EXTINF: -1 tvg-id = "BAND SP" tvg-name = "BAND SP FULL HD" tvg-logo = "http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title = "Canais: Abertos ", BAND SP FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46900.m3u8
+#EXTINF: -1 tvg-id = "BAND SP" tvg-name = "BAND SP HD" tvg-logo = "http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title = "Canais: Abertos" , BAND SP HD
+http://play.starbr.top/live/admteste20/extreme21/1108.m3u8
+#EXTINF: -1 tvg-id = "FUTURA" tvg-name = "FUTURA HD" tvg-logo = "http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title = "Canais: Abertos", FUTURA HD
+http://play.starbr.top/live/admteste20/extreme21/20803.m3u8
+#EXTINF: -1 tvg-id = "GLOBO ACRE" tvg-name = "GLOBO ACRE HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos , GLOBO ACRE HD
+http://play.starbr.top/live/admteste20/extreme21/49721.m3u8
+#EXTINF: -1 tvg-id = "GLOBO AMAPA" tvg-name = "GLOBO AMAPÁ HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group -tos = "Canais: Abertas: , GLOBO AMAPÁ HD
+http://play.starbr.top/live/admteste20/extreme21/49729.m3u8
+#EXTINF: -1 tvg-id = "GLOBO BRASILIA" tvg-name = "GLOBO BRASILIA HD +" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertas , GLOBO BRASILIA HD +
+http://play.starbr.top/live/admteste20/extreme21/21804.m3u8
+#EXTINF: -1 tvg-id = "GLOBO BRASILIA" tvg-name = "GLOBO BRASILIA HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos , GLOBO BRASILIA HD
+http://play.starbr.top/live/admteste20/extreme21/17121.m3u8
+#EXTINF: -1 tvg-id = "GLOBO EPTV CAMPINAS" tvg-name = "GLOBO EPTV CAMPINAS FULL HD" tvg-logo = "http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" : Abertos ", GLOBO EPTV CAMPINAS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/48808.m3u8
+#EXTINF: -1 tvg-id = "GLOBO EPTV CAMPINAS" tvg-name = "GLOBO EPTV CAMPINAS HD" tvg-logo = "http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" Abertos ", GLOBO EPTV CAMPINAS HD
+http://play.starbr.top/live/admteste20/extreme21/48809.m3u8
+#EXTINF: -1 tvg-id = "GLOBO EPTV RIBEIRAO PRETO" tvg-name = "GLOBO EPTV RIBEIRAO PRETO COMPLETO HD" tvg-logo = "http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" "Canais: Abertos", GLOBO EPTV RIBEIRAO PRETO FULL HD
+http://play.starbr.top/live/admteste20/extreme21/48801.m3u8
+#EXTINF: -1 tvg-id = "GLOBO EPTV RIBEIRAO PRETO" tvg-name = "GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo = "http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" Canais: Abertos ", GLOBO EPTV RIBEIRAO PRETO HD
+http://play.starbr.top/live/admteste20/extreme21/48800.m3u8
+#EXTINF: -1 tvg-id = "GLOBO INTER TV CABUGI" tvg-name = "GLOBO INTER TV CABUGI COMPLETO HD" tvg-logo = "http://img.starbr.in/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" "Canais: Abertos", GLOBO INTER TV CABUGI COMPLETO HD
+http://play.starbr.top/live/admteste20/extreme21/48816.m3u8
+#EXTINF: -1 tvg-id = "GLOBO INTER TV CABUGI" tvg-name = "GLOBO INTER TV CABUGI HD" tvg-logo = "http://img.starbr.in/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" Canais: Abertos ", GLOBO INTER TV CABUGI HD
+http://play.starbr.top/live/admteste20/extreme21/48815.m3u8
+#EXTINF: -1 tvg-id = "GLOBO MG" tvg-name = "GLOBO MG HD +" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos , GLOBO MG HD +
+http://play.starbr.top/live/admteste20/extreme21/21803.m3u8
+#EXTINF: -1 tvg-id = "GLOBO MG" tvg-name = "GLOBO MG HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos" , GLOBO MG HD
+http://play.starbr.top/live/admteste20/extreme21/17129.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NORDESTE" tvg-name = "GLOBO NORDESTE HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = " , GLOBO NORDESTE HD
+http://play.starbr.top/live/admteste20/extreme21/17130.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC BLUMENAU" tvg-name = "GLOBO NSC BLUMENAU FULL HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" grupo Can-title " : Abertos ", GLOBO NSC BLUMENAU FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46939.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC BLUMENAU" tvg-name = "GLOBO NSC BLUMENAU HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.pais" group-title = Canais do grupo: title Abertos ", GLOBO NSC BLUMENAU HD
+http://play.starbr.top/live/admteste20/extreme21/46940.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC FLORIANÓPOLIS" tvg-name = "GLOBO NSC FLORIANÓPOLIS FULL HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382ng50" : Abertos ", GLOBO NSC FLORIANÓPOLIS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46941.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC FLORIANÓPOLIS" tvg-name = "GLOBO NSC FLORIANÓPOLIS HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.pais". Abertos ", GLOBO NSC FLORIANÓPOLIS HD
+http://play.starbr.top/live/admteste20/extreme21/46942.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC JOINVILLE" tvg-name = "GLOBO NSC JOINVILLE FULL HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" grupo Canais " : Abertos ", GLOBO NSC JOINVILLE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46944.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC JOINVILLE" tvg-name = "GLOBO NSC JOINVILLE HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" grupo Can-title: Abertos ", GLOBO NSC JOINVILLE HD
+http://play.starbr.top/live/admteste20/extreme21/46943.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC TV CRICIÚMA" tvg-name = "GLOBO NSC TV CRICIÚMA FULL HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.pdf" "Canais: Abertos", GLOBO NSC TV CRICIÚMA HD
+http://play.starbr.top/live/admteste20/extreme21/48813.m3u8
+#EXTINF: -1 tvg-id = "GLOBO NSC TV CRICIÚMA" tvg-name = "GLOBO NSC TV CRICIÚMA HD" tvg-logo = "http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group " Canais: Abertos ", GLOBO NSC TV CRICIÚMA HD
+http://play.starbr.top/live/admteste20/extreme21/48814.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RBS TV PORTO ALEGRE" tvg-name = "GLOBO RBS TV PORTO ALEGRE FULL HD" tvg-logo = "http://img.starbr.in/1559759167_af8cd55f6efe7c8aa302d4b63d-7318f4548e grupo" title = "Canais: Abertos", TV GLOBO RBS PORTO ALEGRE COMPLETO HD
+http://play.starbr.top/live/admteste20/extreme21/46915.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RBS TV PORTO ALEGRE" tvg-name = "GLOBO RBS TV PORTO ALEGRE HD" tvg-logo = "http://img.starbr.in/1559759167_af8cd55f6efe7c8aa302d4b63dd7318f4548e801" = "Canais: Abertos", TV GLOBO RBS PORTO ALEGRE HD
+http://play.starbr.top/live/admteste20/extreme21/46914.m3u8
+#EXTINF: -1 tvg-id = "GLOBO REDE AMAZONICA" tvg-name = "GLOBO REDE AMAZONICA HD" tvg-logo = "http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" grupo-título: Abertos ", GLOBO REDE AMAZONICA HD
+http://play.starbr.top/live/admteste20/extreme21/38452.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RJ" tvg-name = "GLOBO RJ FULL HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos ", GLOBO RJ HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/46913.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RJ" tvg-name = "GLOBO RJ HD +" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos , GLOBO RJ HD +
+http://play.starbr.top/live/admteste20/extreme21/21801.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RJ" tvg-name = "GLOBO RJ HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos" , GLOBO RJ HD
+http://play.starbr.top/live/admteste20/extreme21/1207.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RPC CURITIBA" tvg-name = "GLOBO RPC CURITIBA COMPLETO HD" tvg-logo = "http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" : Abertos ", GLOBO RPC CURITIBA COMPLETO HD
+http://play.starbr.top/live/admteste20/extreme21/46917.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RPC CURITIBA" tvg-name = "GLOBO RPC CURITIBA HD" tvg-logo = "http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" Abertos ", GLOBO RPC CURITIBA HD
+http://play.starbr.top/live/admteste20/extreme21/46916.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RPC MARINGA" tvg-name = "GLOBO RPC MARINGÁ HD COMPLETO" tvg-logo = "http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" : Abertos ", GLOBO RPC MARINGÁ HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/48810.m3u8
+#EXTINF: -1 tvg-id = "GLOBO RPC MARINGA" tvg-name = "GLOBO RPC MARINGÁ HD" tvg-logo = "http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.pais" group-title = Canais do grupo: title Abertos ", GLOBO RPC MARINGÁ HD
+http://play.starbr.top/live/admteste20/extreme21/48811.m3u8
+#EXTINF: -1 tvg-id = "GLOBO SP" tvg-name = "GLOBO SP FULL HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos ", GLOBO SP HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/46912.m3u8
+#EXTINF: -1 tvg-id = "GLOBO SP" tvg-name = "GLOBO SP HD +" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos , GLOBO SP HD +
+http://play.starbr.top/live/admteste20/extreme21/21800.m3u8
+#EXTINF: -1 tvg-id = "GLOBO SP" tvg-name = "GLOBO SP HD" tvg-logo = "http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title = "Canais: Abertos" , GLOBO SP HD
+http://play.starbr.top/live/admteste20/extreme21/17122.m3u8
+#EXTINF: -1 tvg-id = "GLOBO TV ANHANGUERA" tvg-name = "GLOBO TV ANHANGUERA HD" tvg-logo = "http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" grupo-título = Abertos ", GLOBO TV ANHANGUERA HD
+http://play.starbr.top/live/admteste20/extreme21/49719.m3u8
+#EXTINF: -1 tvg-id = "GLOBO TV BAHIA" tvg-name = "GLOBO TV BAHIA FULL HD" tvg-logo = "http://img.starbr.in/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title = "Canais : Abertos ", GLOBO TV BAHIA HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/48803.m3u8
+#EXTINF: -1 tvg-id = "GLOBO TV BAHIA" tvg-name = "GLOBO TV BAHIA HD" tvg-logo = "http://img.starbr.in/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title = "Canais: Abertos ", GLOBO TV BAHIA HD
+http://play.starbr.top/live/admteste20/extreme21/48802.m3u8
+#EXTINF: -1 tvg-id = "TV GLOBO GAZETA ALAGOAS" tvg-name = "TV GLOBO GAZETA ALAGOAS COMPLETO HD" tvg-logo = "http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4 grupo". "Canais: Abertos", GLOBO TV GAZETA ALAGOAS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/48805.m3u8
+#EXTINF: -1 tvg-id = "TV GLOBO GAZETA ALAGOAS" tvg-name = "TV GLOBO GAZETA ALAGOAS HD" tvg-logo = "http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7-group" Canais: Abertos ", GLOBO TV GAZETA ALAGOAS HD
+http://play.starbr.top/live/admteste20/extreme21/48804.m3u8
+#EXTINF: -1 tvg-id = "GLOBO TV GAZETA ES" tvg-name = "GLOBO TV GAZETA ES FULL HD" tvg-logo = "http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group "Canais: Abertos", GLOBO TV GAZETA ES FULL HD
+http://play.starbr.top/live/admteste20/extreme21/48812.m3u8
+#EXTINF: -1 tvg-id = "GLOBO TV GAZETA ES" tvg-name = "GLOBO TV GAZETA ES HD" tvg-logo = "http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" grupo-title " Canais: Abertos ", GLOBO TV GAZETA ES HD
+http://play.starbr.top/live/admteste20/extreme21/24484.m3u8
+#EXTINF: -1 tvg-id = "GLOBO TV SERGIPE" tvg-name = "GLOBO TV SERGIPE FULL HD" tvg-logo = "http://img.starbr.in/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" grupo-título = Canais de grupo : Abertos ", GLOBO TV SERGIPE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46954.m3u8
+#EXTINF: -1 tvg-id = "GLOBO TV SERGIPE" tvg-name = "GLOBO TV SERGIPE HD" tvg-logo = "http://img.starbr.in/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" group-title = "Canais Abertos ", GLOBO TV SERGIPE HD
+http://play.starbr.top/live/admteste20/extreme21/46953.m3u8
+#EXTINF: -1 tvg-id = "TV GLOBO TEM SÃO JOSÉ DO RIO PRETO" tvg-name = "TV GLOBO TEM SÃO JOSÉ DO RIO PRETO COMPLETO HD" tvg-logo = "http://img.starbr.in/ 1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg "group-title =" Canais: Abertos ", TV GLOBO TEM SÃO JOSÉ DO RIO PRETO HD
+http://play.starbr.top/live/admteste20/extreme21/50200.m3u8
+#EXTINF: -1 tvg-id = "TV GLOBO TEM SÃO JOSE DO RIO PRETO" tvg-name = "TV GLOBO TEM SÃO JOSE DO RIO PRETO HD" tvg-logo = "http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407bec2ee6d41807bec2ee6d41 .jpg "group-title =" Canais: Abertos ", TV GLOBO TEM SÃO JOSÉ DO RIO PRETO HD
+http://play.starbr.top/live/admteste20/extreme21/50199.m3u8
+#EXTINF: -1 tvg-id = "TV GLOBO VERDES MARES" tvg-name = "TV GLOBO VERDES MARES HD COMPLETO" tvg-logo = "http://img.starbr.in/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group.png " "Canais: Abertos", GLOBO TV VERDES MARES HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/48799.m3u8
+#EXTINF: -1 tvg-id = "TV GLOBO VERDES MARES" tvg-name = "TV GLOBO VERDES MARES HD" tvg-logo = "http://img.starbr.in/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title = "grupo-título" Canais: Abertos ", GLOBO TV VERDES MARES HD
+http://play.starbr.top/live/admteste20/extreme21/48798.m3u8
+#EXTINF: -1 tvg-id = "RECORD BA" tvg-name = "RECORD BA HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD BA HD
+http://play.starbr.top/live/admteste20/extreme21/29367.m3u8
+#EXTINF: -1 tvg-id = "RECORD DF" tvg-name = "RECORD DF HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD DF HD
+http://play.starbr.top/live/admteste20/extreme21/29364.m3u8
+#EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD GO HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD GO HD
+http://play.starbr.top/live/admteste20/extreme21/47529.m3u8
+#EXTINF: -1 tvg-id = "RECORD MG" tvg-name = "RECORD MG HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD MG HD
+http://play.starbr.top/live/admteste20/extreme21/29369.m3u8
+#EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD PA HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD PA HD
+http://play.starbr.top/live/admteste20/extreme21/47555.m3u8
+#EXTINF: -1 tvg-id = "RECORD RJ" tvg-name = "RECORD RJ HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD RJ HD
+http://play.starbr.top/live/admteste20/extreme21/29371.m3u8
+#EXTINF: -1 tvg-id = "RECORD RS" tvg-name = "RECORD RS HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD RS HD
+http://play.starbr.top/live/admteste20/extreme21/29373.m3u8
+#EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD SP FULL HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos ", GRAVAÇÃO SP FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26013.m3u8
+#EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD SP HD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f790401fa3f79099612c8a56082306545b.png" group-title = "Canais: Abertos" , RECORD SP HD
+http://play.starbr.top/live/admteste20/extreme21/1210.m3u8
+#EXTINF: -1 tvg-id = "SBT" tvg-name = "SBT HD +" tvg-logo = "http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title = "Canais: Abertos", SBT HD +
+http://play.starbr.top/live/admteste20/extreme21/38919.m3u8
+#EXTINF: -1 tvg-id = "SBT" tvg-name = "SBT HD" tvg-logo = "http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title = "Canais: Abertos", SBT HD
+http://play.starbr.top/live/admteste20/extreme21/1208.m3u8
+#EXTINF: -1 tvg-id = "SBT" tvg-name = "SBT INTERIOR HD" tvg-logo = "http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title = "Canais: Abertos", SBT INTERIOR HD
+http://play.starbr.top/live/admteste20/extreme21/50196.m3u8
+#EXTINF: -1 tvg-id = "SBT TV SERRA DOURADA" tvg-name = "SBT TV SERRA DOURADA HD" tvg-logo = "http://img.starbr.in/1559766370_8281233e785020d2ccb47dd70319f1a8cc05ea68.png" group-title = " Canais: Abertos ", SBT TV SERRA DOURADA HD
+http://play.starbr.top/live/admteste20/extreme21/37842.m3u8
+#EXTINF: -1 tvg-id = "PLANETA ANIMAL" tvg-name = "PLANETA ANIMAL FULL HD" tvg-logo = "http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title = "Canais" ", PLANETA ANIMAL FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46899.m3u8
+#EXTINF: -1 tvg-id = "PLANETA ANIMAL" tvg-name = "PLANETA ANIMAL HD" tvg-logo = "http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title = "Canais: Documentários" , PLANETA ANIMAL HD
+http://play.starbr.top/live/admteste20/extreme21/1117.m3u8
+#EXTINF: -1 tvg-id = "DISCOVERY CHANNEL" tvg-name = "DISCOVERY CHANNEL FULL HD" tvg-logo = "http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title = Canais ", DISCOVERY CHANNEL FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5035.m3u8
+#EXTINF: -1 tvg-id = "DISCOVERY CHANNEL" tvg-name = "DISCOVERY CHANNEL HD" tvg-logo = "http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title = "Canais: documentais" , DISCOVERY CHANNEL HD
+http://play.starbr.top/live/admteste20/extreme21/2410.m3u8
+#EXTINF: -1 tvg-id = "DESCOBERTA CIVILIZAÇÃO" tvg-name = "DESCOBERTA CIVILIZAÇÃO COMPLETA HD" tvg-logo = "http://img.starbr.in/1559755509_7dbd08d9e90b35416b4c8e71e36b5c07a65c4aec.grupos" ", DESCOBERTA CIVILIZAÇÃO COMPLETA HD
+http://play.starbr.top/live/admteste20/extreme21/26026.m3u8
+#EXTINF: -1 tvg-id = "DESCOBERTA CIVILIZAÇÃO" tvg-name = "DESCOBERTA CIVILIZAÇÃO HD" tvg-logo = "http://img.starbr.in/1559755509_7dbd08d9e90b35416b4c8e71e36b5c07a65c4aec.pais". , DESCOBERTA CIVILIZAÇÃO HD
+http://play.starbr.top/live/admteste20/extreme21/16005.m3u8
+#EXTINF: -1 tvg-id = "CIÊNCIA DA DESCOBERTA" tvg-name = "CIÊNCIA DA DESCOBERTA FULL HD" tvg-logo = "http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title = Canais ", DESCOBERTA CIÊNCIA FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26024.m3u8
+#EXTINF: -1 tvg-id = "CIÊNCIA DA DESCOBERTA" tvg-name = "CIÊNCIA DA DESCOBERTA HD" tvg-logo = "http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title = "Canais: documentais" , DESCOBERTA CIÊNCIA HD
+http://play.starbr.top/live/admteste20/extreme21/16006.m3u8
+#EXTINF: -1 tvg-id = "DESCOBERTA DO TEATRO" tvg-name = "DESCOBERTA DO TEATRO COMPLETO HD" tvg-logo = "http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4". ", DESCOBRE O TEATRO EM HD
+http://play.starbr.top/live/admteste20/extreme21/26023.m3u8
+#EXTINF: -1 tvg-id = "DISCOVERY THEATER" tvg-name = "DISCOVERY THEATER HD" tvg-logo = "http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4.png" , DISCOVERY THEATER HD
+http://play.starbr.top/live/admteste20/extreme21/2460.m3u8
+#EXTINF: -1 tvg-id = "DISCOVERY TURBO" tvg-name = "DISCOVERY TURBO FULL HD" tvg-logo = "http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title = "documentais" ", DISCOVERY TURBO FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5038.m3u8
+#EXTINF: -1 tvg-id = "DISCOVERY TURBO" tvg-name = "DISCOVERY TURBO HD" tvg-logo = "http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title = "Canais: Documentários" , DISCOVERY TURBO HD
+http://play.starbr.top/live/admteste20/extreme21/2411.m3u8
+#EXTINF: -1 tvg-id = "DISCOVERY WORLD" tvg-name = "DISCOVERY WORLD FULL HD" tvg-logo = "http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png" group-title = Canais de grupos: ", DESCOBRE O MUNDO COMPLETO HD
+http://play.starbr.top/live/admteste20/extreme21/26022.m3u8
+#EXTINF: -1 tvg-id = "DISCOVERY WORLD" tvg-name = "DISCOVERY WORLD HD" tvg-logo = "http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png": document-title = "Canais" , DESCOBRE O MUNDO HD
+http://play.starbr.top/live/admteste20/extreme21/2461.m3u8
+#EXTINF: -1 tvg-id = "H2" tvg-name = "H2 FULL HD" tvg-logo = "http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title = "Canais: Documentários", H2 FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5056.m3u8
+#EXTINF: -1 tvg-id = "H2" tvg-name = "H2 HD" tvg-logo = "http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title = "Canais: Documentários", H2 HD
+http://play.starbr.top/live/admteste20/extreme21/1021.m3u8
+#EXTINF: -1 tvg-id = "INVESTIGACAO DISCOVERY" tvg-name = "INVESTIGACAO DISCOVERY HD" tvg-logo = "http://img.starbr.in/1559762432_ff9b16c225bc3ba42286933f4b1b5018c99e7b60.jpg" , INVESTIGACAO DISCOVERY HD
+http://play.starbr.top/live/admteste20/extreme21/2469.m3u8
+#EXTINF: -1 tvg-id = "NATGEO WILD" tvg-name = "NATGEO WILD FULL HD" tvg-logo = "http://img.starbr.in/1559763269_0911abd3e596cd1647b29da386097cc9880bb72e.png" group-title = "Canais: Documentários ", NATGEO SELVAGEM HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/18022.m3u8
+#EXTINF: -1 tvg-id = "NATGEO WILD" tvg-name = "NATGEO WILD HD" tvg-logo = "http://img.starbr.in/1559763269_0911abd3e596cd1647b29da386097cc9880bb72e.png" group-title = "Canais: Documentários" , NATGEO WILD HD
+http://play.starbr.top/live/admteste20/extreme21/994.m3u8
+#EXTINF: -1 tvg-id = "GEOGRAFIA NACIONAL" tvg-name = "GEOGRAFIA NACIONAL COMPLETA" tvg-logo = "http://img.starbr.in/1559763330_5716929597eb7e2dbc4e4a4a97abe4cca421765b.jpg" group-title = "Canários" ", GEOGRAFIA NACIONAL EM HD
+http://play.starbr.top/live/admteste20/extreme21/26016.m3u8
+#EXTINF: -1 tvg-id = "GEOGRAFIA NACIONAL" tvg-name = "GEOGRAFIA NACIONAL HD" tvg-logo = "http://img.starbr.in/1559763330_5716929597eb7e2dbc4e4a4a97abe4cca421765b.jpg" group-title = "Canais: documentais do grupo =" Canais: , National Geographic HD
+http://play.starbr.top/live/admteste20/extreme21/990.m3u8
+#EXTINF: -1 tvg-id = "O CANAL DE HISTÓRIA" tvg-name = "O CANAL DE HISTÓRIA COMPLETO HD" tvg-logo = "http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title = "Canais : Documentários ", O CANAL DE HISTÓRIA COMPLETO HD
+http://play.starbr.top/live/admteste20/extreme21/16216.m3u8
+#EXTINF: -1 tvg-id = "O CANAL DE HISTÓRIA" tvg-name = "O CANAL DE HISTÓRIA HD" tvg-logo = "http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title = "Canais: Documentários ", O CANAL DE HISTÓRIA HD
+http://play.starbr.top/live/admteste20/extreme21/2468.m3u8
+#EXTINF: -1 tvg-id = "BAND SPORTS" tvg-name = "BAND SPORTS FULL HD" tvg-logo = "http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title = "Canais: Esportes ", BAND SPORTS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5034.m3u8
+#EXTINF: -1 tvg-id = "BAND SPORTS" tvg-name = "BAND SPORTS HD" tvg-logo = "http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title = "Canais: Esportes" , BAND SPORTS HD
+http://play.starbr.top/live/admteste20/extreme21/2407.m3u8
+#EXTINF: -1 tvg-id = "COMBATE" tvg-name = "COMBATE FULL HD" tvg-logo = "http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title = "Canais: COMBATE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/18019.m3u8
+#EXTINF: -1 tvg-id = "COMBATE" tvg-name = "COMBATE HD" tvg-logo = "http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title = "Canais: Esportes" HD
+http://play.starbr.top/live/admteste20/extreme21/1088.m3u8
+#EXTINF: -1 tvg-id = "STARBR" tvg-name = "COPA LIBERTADORES 2019 HD" tvg-logo = "http://img.starbr.in/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title = "Canais: Esportes" , COPA LIBERTADORES 2019 HD
+http://play.starbr.top/live/admteste20/extreme21/48114.m3u8
+#EXTINF: -1 tvg-id = "STARBR" tvg-name = "DAZN FULL HD" tvg-logo = "http://img.starbr.in/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title = "Canais: Esportes", DAZN FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46924.m3u8
+#EXTINF: -1 tvg-id = "STARBR" tvg-name = "DAZN HD" tvg-logo = "http://img.starbr.in/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title = "Canais: Esportes", DAZN HD
+http://play.starbr.top/live/admteste20/extreme21/46925.m3u8
+#EXTINF: -1 tvg-id = "STARBR" tvg-name = "EI PLUS HD" tvg-logo = "http://img.starbr.in/1559756608_2eb8898529463f5a3419367ae56d91372815966e.jpg" group-title = "Canais: Esportes", EI PLUS HD
+http://play.starbr.top/live/admteste20/extreme21/42914.m3u8
+#EXTINF: -1 tvg-id = "ESPN" tvg-name = "ESPN 1 FULL HD" tvg-logo = "http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title = "Canais: esportes" , ESPN 1 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/26044.m3u8
+#EXTINF: -1 tvg-id = "ESPN" tvg-name = "ESPN 1 HD" tvg-logo = "http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title = "Canais: Esportes", ESPN 1 HD
+http://play.starbr.top/live/admteste20/extreme21/1129.m3u8
+#EXTINF: -1 tvg-id = "ESPN 2" tvg-name = "ESPN 2 FULL HD" tvg-logo = "http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title = "Canais: Esportes ", ESPN 2 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/26043.m3u8
+#EXTINF: -1 tvg-id = "ESPN 2" tvg-name = "ESPN 2 HD" tvg-logo = "http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title = "Canais: Esportes" , ESPN 2 HD
+http://play.starbr.top/live/admteste20/extreme21/2394.m3u8
+#EXTINF: -1 tvg-id = "ESPN BRASIL" tvg-name = "ESPN BRASIL FULL HD" tvg-logo = "http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title = "Canais: Esportes ", ESPN BRASIL FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26045.m3u8
+#EXTINF: -1 tvg-id = "ESPN BRASIL" tvg-name = "ESPN BRASIL HD" tvg-logo = "http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title = "Canais: Esportes" , ESPN BRASIL HD
+http://play.starbr.top/live/admteste20/extreme21/2387.m3u8
+#EXTINF: -1 tvg-id = "ESPN EXTRA" tvg-name = "ESPN EXTRA FULL HD" tvg-logo = "http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title = "Canais: Esportes ", ESPN EXTRA FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46906.m3u8
+#EXTINF: -1 tvg-id = "ESPN EXTRA" tvg-name = "ESPN EXTRA HD" tvg-logo = "http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title = "Canais: Esportes" , ESPN EXTRA HD
+http://play.starbr.top/live/admteste20/extreme21/20813.m3u8
+#EXTINF: -1 tvg-id = "FOX SPORTS" tvg-name = "FOX SPORTS FULL HD" tvg-logo = "http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title = "Canais: Esportes ", FOX SPORTS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/50187.m3u8
+#EXTINF: -1 tvg-id = "FOX SPORTS" tvg-name = "FOX SPORTS HD" tvg-logo = "http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title = "Canais: Esportes" , FOX SPORTS HD
+http://play.starbr.top/live/admteste20/extreme21/50188.m3u8
+#EXTINF: -1 tvg-id = "FOX SPORTS 2" tvg-name = "FOX SPORTS 2 FULL HD" tvg-logo = "http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" : Esportes ", FOX SPORTS 2 FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26031.m3u8
+#EXTINF: -1 tvg-id = "FOX SPORTS 2" tvg-name = "FOX SPORTS 2 HD" tvg-logo = "http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title = "Canais" Esportes ", FOX SPORTS 2 HD
+http://play.starbr.top/live/admteste20/extreme21/1031.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE CLUBES" tvg-name = "PREMIERE CLUBES FULL HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE CLUBES FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5065.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE CLUBES" tvg-name = "PREMIERE CLUBES HD 2" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE CLUBES HD 2
+http://play.starbr.top/live/admteste20/extreme21/50206.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE CLUBES" tvg-name = "PREMIERE CLUBES HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE CLUBES HD
+http://play.starbr.top/live/admteste20/extreme21/1714.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 2" tvg-name = "PREMIERE 2 FULL HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 2 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/5062.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 2" tvg-name = "PREMIERE 2 HD 2" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 2 HD 2
+http://play.starbr.top/live/admteste20/extreme21/50208.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 2" tvg-name = "PREMIERE 2 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 2 HD
+http://play.starbr.top/live/admteste20/extreme21/1213.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 3" tvg-name = "PREMIERE 3 FULL HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 3 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/18023.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 3" tvg-name = "PREMIERE 3 HD 2" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 3 HD 2
+http://play.starbr.top/live/admteste20/extreme21/50210.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 3" tvg-name = "PREMIERE 3 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 3 HD
+http://play.starbr.top/live/admteste20/extreme21/1214.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 4" tvg-name = "PREMIERE 4 FULL HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 4 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/5063.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 4" tvg-name = "PREMIERE 4 HD 2" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 4 HD 2
+http://play.starbr.top/live/admteste20/extreme21/50212.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 4" tvg-name = "PREMIERE 4 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 4 HD
+http://play.starbr.top/live/admteste20/extreme21/1215.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 5" tvg-name = "PREMIERE 5 FULL HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 5 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/5064.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 5" tvg-name = "PREMIERE 5 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 5 HD
+http://play.starbr.top/live/admteste20/extreme21/1216.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 6" tvg-name = "PREMIERE 6 FULL HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 6 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/18024.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 6" tvg-name = "PREMIERE 6 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 6 HD
+http://play.starbr.top/live/admteste20/extreme21/16211.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 7" tvg-name = "PREMIERE 7 FULL HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes ", PREMIERE 7 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/18025.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 7" tvg-name = "PREMIERE 7 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 7 HD
+http://play.starbr.top/live/admteste20/extreme21/16213.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 8" tvg-name = "PREMIERE 8 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 8 HD
+http://play.starbr.top/live/admteste20/extreme21/38359.m3u8
+#EXTINF: -1 tvg-id = "PREMIERE 9" tvg-name = "PREMIERE 9 HD" tvg-logo = "http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title = "Canais: Esportes" , PREMIERE 9 HD
+http://play.starbr.top/live/admteste20/extreme21/41353.m3u8
+#EXTINF: -1 tvg-id = "SPORTV" tvg-name = "SPORTV 1 FULL HD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Canais: Esportes" , SPORTV 1 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/5067.m3u8
+#EXTINF: -1 tvg-id = "SPORTV" tvg-name = "SPORTV 1 HD" tvg-logo = "http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title = "Canais: Esportes", SPORTV 1 HD
+http://play.starbr.top/live/admteste20/extreme21/1203.m3u8
+#EXTINF: -1 tvg-id = "SPORTV 2" tvg-name = "SPORTV 2 FULL HD" tvg-logo = "http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title = "Canais: ", SPORTV 2 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/26030.m3u8
+#EXTINF: -1 tvg-id = "SPORTV 2" tvg-name = "SPORTV 2 HD" tvg-logo = "http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title = "Canais: Esportes" , SPORTV 2 HD
+http://play.starbr.top/live/admteste20/extreme21/2401.m3u8
+#EXTINF: -1 tvg-id = "SPORTV 3" tvg-name = "SPORTV 3 FULL HD" tvg-logo = "http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title = "Canais: ", SPORTV 3 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/26010.m3u8
+#EXTINF: -1 tvg-id = "SPORTV 3" tvg-name = "SPORTV 3 HD" tvg-logo = "http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title = "Canais: Esportes" , SPORTV 3 HD
+http://play.starbr.top/live/admteste20/extreme21/2402.m3u8
+#EXTINF: -1 tvg-id = "AMC" tvg-name = "AMC FULL HD" tvg-logo = "http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title = "Canais: Filmes e Séries ", AMC FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26029.m3u8
+#EXTINF: -1 tvg-id = "AMC" tvg-name = "AMC HD" tvg-logo = "http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title = "Canais: Filmes e Séries" , AMC HD
+http://play.starbr.top/live/admteste20/extreme21/15406.m3u8
+#EXTINF: -1 tvg-id = "AXN" tvg-name = "AXN FULL HD" tvg-logo = "http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title = "Canais: Filmes S ", AXN FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5033.m3u8
+#EXTINF: -1 tvg-id = "AXN" tvg-name = "AXN HD" tvg-logo = "http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title = "Canais: Filmes e Séries , AXN HD
+http://play.starbr.top/live/admteste20/extreme21/1114.m3u8
+#EXTINF: -1 tvg-id = "CANAL BRASIL" tvg-name = "CANAL BRASIL HD" tvg-logo = "http://img.starbr.in/1559754389_28121407418ba7a5e2b3938ef32e91e687c1a45.jpg" group-title = "Canais: Filmes e Séries ", CANAL BRASIL HD
+http://play.starbr.top/live/admteste20/extreme21/5079.m3u8
+#EXTINF: -1 tvg-id = "CINEMAX" tvg-name = "CINEMAX FULL HD" tvg-logo = "http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title = "Canais: Filmes e filmes ", CINEMAX FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26027.m3u8
+#EXTINF: -1 tvg-id = "CINEMAX" tvg-name = "CINEMAX HD" tvg-logo = "http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title = "Canais: Filmes e Séries , CINEMAX HD
+http://play.starbr.top/live/admteste20/extreme21/5080.m3u8
+#EXTINF: -1 tvg-id = "FOX" tvg-name = "FOX FULL HD" tvg-logo = "http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title = "Canais: Filmes e Séries ", FOX HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/18020.m3u8
+#EXTINF: -1 tvg-id = "FOX" tvg-name = "FOX HD" tvg-logo = "http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title = "Canais: Filmes e Séries" , FOX HD
+http://play.starbr.top/live/admteste20/extreme21/1047.m3u8
+#EXTINF: -1 tvg-id = "FOX PREMIUM 1" tvg-name = "FOX PREMIUM 1 FULL HD" tvg-logo = "http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.pais" group-title = "Canais" : Filmes e Séries ", FOX PREMIUM 1 FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46907.m3u8
+#EXTINF: -1 tvg-id = "FOX PREMIUM 1" tvg-name = "FOX PREMIUM 1 HD" tvg-logo = "http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title = "Canais" Filmes e Séries ", FOX PREMIUM 1 HD
+http://play.starbr.top/live/admteste20/extreme21/2464.m3u8
+#EXTINF: -1 tvg-id = "FOX PREMIUM 2" tvg-name = "FOX PREMIUM 2 FULL HD" tvg-logo = "http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title = "Canais : Filmes e Séries ", FOX PREMIUM 2 FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46908.m3u8
+#EXTINF: -1 tvg-id = "FOX PREMIUM 2" tvg-name = "FOX PREMIUM 2 HD" tvg-logo = "http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title = "Canais: Filmes e Séries ", FOX PREMIUM 2 HD
+http://play.starbr.top/live/admteste20/extreme21/2465.m3u8
+#EXTINF: -1 tvg-id = "FX" tvg-name = "FX FULL HD" tvg-logo = "http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title = "Canais: Filmes e Séries ", FX FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26040.m3u8
+#EXTINF: -1 tvg-id = "FX" tvg-name = "FX HD" tvg-logo = "http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title = "Canais: Filmes e Séries" , FX HD
+http://play.starbr.top/live/admteste20/extreme21/2386.m3u8
+#EXTINF: -1 tvg-id = "HBO 2" tvg-name = "HBO 2 FULL HD" tvg-logo = "http://img.starbr.in/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title = "Canais: Filmes e Séries ", HBO 2 HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/26039.m3u8
+#EXTINF: -1 tvg-id = "HBO 2" tvg-name = "HBO 2 HD" tvg-logo = "http://img.starbr.in/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title = "Canais: Filmes e Séries ", HBO 2 HD
+http://play.starbr.top/live/admteste20/extreme21/1017.m3u8
+#EXTINF: -1 tvg-id = "HBO" tvg-name = "HBO FULL HD" tvg-logo = "http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title = "Canais: Filmes e Séries ", HBO FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26037.m3u8
+#EXTINF: -1 tvg-id = "HBO" tvg-name = "HBO HD" tvg-logo = "http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title = "Canais: Filmes e Séries" , HBO HD
+http://play.starbr.top/live/admteste20/extreme21/1209.m3u8
+#EXTINF: -1 tvg-id = "HBO FAMÍLIA" tvg-name = "HBO FAMÍLIA FULL HD" tvg-logo = "http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title = Canais: e Séries ", HBO FAMILY FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26038.m3u8
+#EXTINF: -1 tvg-id = "HBO FAMÍLIA" tvg-name = "HBO FAMÍLIA HD" tvg-logo = "http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title = "Canais" Séries ", HBO FAMILY HD
+http://play.starbr.top/live/admteste20/extreme21/2392.m3u8
+#EXTINF: -1 tvg-id = "HBO PLUS" tvg-name = "HBO PLUS FULL HD" tvg-logo = "http://img.starbr.in/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title = "Canais: Filmes e Séries ", HBO PLUS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26036.m3u8
+#EXTINF: -1 tvg-id = "HBO PLUS" tvg-name = "HBO PLUS HD" tvg-logo = "http://img.starbr.in/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title = "Canais: Filmes e Séries ", HBO PLUS HD
+http://play.starbr.top/live/admteste20/extreme21/2467.m3u8
+#EXTINF: -1 tvg-id = "HBO ASSINATURA" tvg-name = "HBO ASSINATURA FULL HD" tvg-logo = "http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title = "Filmes" e Séries ", HBO SIGNATURE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26035.m3u8
+#EXTINF: -1 tvg-id = "HBO SIGNATURE" tvg-name = "HBO SIGNATURE HD" tvg-logo = "http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title = "Canais: Filmes" Séries ", HBO SIGNATURE HD
+http://play.starbr.top/live/admteste20/extreme21/1013.m3u8
+#EXTINF: -1 tvg-id = "MAX" tvg-name = "MAX FULL HD" tvg-logo = "http://img.starbr.in/1559762649_f10e014584d9d5d5f34feae650100a754bba0ac3.png" group-title = "Canais: Filmes e Séries ", MAX FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26033.m3u8
+#EXTINF: -1 tvg-id = "MAX" tvg-name = "MAX HD" tvg-logo = "http://img.starbr.in/1559762649_f10e014584d9d5d5f34feae650100a754bba0ac3.png" group-title = "Canais: Filmes e Séries" , MAX HD
+http://play.starbr.top/live/admteste20/extreme21/5089.m3u8
+#EXTINF: -1 tvg-id = "MAX PRIME" tvg-name = "MAX PRIME HD" tvg-logo = "http://img.starbr.in/1559762733_76ad2d24f8951a33cf71f5f96fa52e896cbd1bbf.jpg" group-title = "Canais: Filmes e Séries ", MAX PRIME HD
+http://play.starbr.top/live/admteste20/extreme21/5090.m3u8
+#EXTINF: -1 tvg-id = "MAX UP" tvg-name = "MAX UP HD" tvg-logo = "http://img.starbr.in/1559762793_4785a97cbcfc7ee1006a920ce8fb383be5d0f3a3.png" group-title = "Canais: Filmes e Séries ", MAX UP HD
+http://play.starbr.top/live/admteste20/extreme21/5091.m3u8
+#EXTINF: -1 tvg-id = "MEGAPIX" tvg-name = "MEGAPIX FULL HD" tvg-logo = "http://img.starbr.in/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title = "Canais: Filmes e Séries ", MEGAPIX FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26019.m3u8
+#EXTINF: -1 tvg-id = "MEGAPIX" tvg-name = "MEGAPIX HD" tvg-logo = "http://img.starbr.in/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title = "Canais: Filmes e Séries" , MEGAPIX HD
+http://play.starbr.top/live/admteste20/extreme21/2470.m3u8
+#EXTINF: -1 tvg-id = "PARAMOUNT CHANNEL" tvg-name = "CANAL DE PARAMOUNT FULL HD" tvg-logo = "http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title = "Canais: Filmes e Séries ", PARAMOUNT CHANNEL HD COMPLETO
+http://play.starbr.top/live/admteste20/extreme21/26014.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Canais: Filmes e Séries",PARAMOUNT CHANNEL HD
+http://play.starbr.top/live/admteste20/extreme21/2472.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY FULL HD" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Canais: Filmes e Séries",SONY FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26012.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY HD" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Canais: Filmes e Séries",SONY HD
+http://play.starbr.top/live/admteste20/extreme21/2409.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE FULL HD" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Canais: Filmes e Séries",SPACE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26011.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Canais: Filmes e Séries",SPACE HD
+http://play.starbr.top/live/admteste20/extreme21/1327.m3u8
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://img.starbr.in/1559767887_978f5018ea1c7b9a3b529306c6e90fcc9b4430b2.png" group-title="Canais: Filmes e Séries",STUDIO UNIVERSAL HD
+http://play.starbr.top/live/admteste20/extreme21/5094.m3u8
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="SUNDANCE FULL HD" tvg-logo="http://img.starbr.in/1559767946_65d1cd0faf77932c3b0837c023e5c767b0d8eebc.jpg" group-title="Canais: Filmes e Séries",SUNDANCE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26009.m3u8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY FULL HD" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Canais: Filmes e Séries",SYFY FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26008.m3u8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Canais: Filmes e Séries",SYFY HD
+http://play.starbr.top/live/admteste20/extreme21/18087.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FULL HD" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Canais: Filmes e Séries",TBS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/50192.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Canais: Filmes e Séries",TBS HD
+http://play.starbr.top/live/admteste20/extreme21/2473.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION FULL HD" tvg-logo="http://img.starbr.in/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Canais: Filmes e Séries",TC ACTION FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5069.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION HD" tvg-logo="http://img.starbr.in/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Canais: Filmes e Séries",TC ACTION HD
+http://play.starbr.top/live/admteste20/extreme21/936.m3u8
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT FULL HD" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Canais: Filmes e Séries",TC CULT FULL HD
+http://play.starbr.top/live/admteste20/extreme21/18026.m3u8
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT HD" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Canais: Filmes e Séries",TC CULT HD
+http://play.starbr.top/live/admteste20/extreme21/5096.m3u8
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN FULL HD" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Canais: Filmes e Séries",TC FUN FULL HD
+http://play.starbr.top/live/admteste20/extreme21/18027.m3u8
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN HD" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Canais: Filmes e Séries",TC FUN HD
+http://play.starbr.top/live/admteste20/extreme21/932.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA FULL HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Canais: Filmes e Séries",TC PIPOCA FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5070.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Canais: Filmes e Séries",TC PIPOCA HD
+http://play.starbr.top/live/admteste20/extreme21/930.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM FULL HD" tvg-logo="http://img.starbr.in/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Canais: Filmes e Séries",TC PREMIUM FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5071.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM HD" tvg-logo="http://img.starbr.in/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Canais: Filmes e Séries",TC PREMIUM HD
+http://play.starbr.top/live/admteste20/extreme21/928.m3u8
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH HD" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Canais: Filmes e Séries",TC TOUCH HD
+http://play.starbr.top/live/admteste20/extreme21/927.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FULL HD" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Canais: Filmes e Séries",TNT FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5073.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Canais: Filmes e Séries",TNT HD
+http://play.starbr.top/live/admteste20/extreme21/2383.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES FULL HD" tvg-logo="http://img.starbr.in/1559768728_eb93074e60333bfa09df1e9f942483932fe75ee0.png" group-title="Canais: Filmes e Séries",TNT SERIES FULL HD
+http://play.starbr.top/live/admteste20/extreme21/5074.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES HD" tvg-logo="http://img.starbr.in/1559768728_eb93074e60333bfa09df1e9f942483932fe75ee0.png" group-title="Canais: Filmes e Séries",TNT SERIES HD
+http://play.starbr.top/live/admteste20/extreme21/2474.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559769363_07757ac3ca69f90b02da98cb3214fe02462c89d7.png" group-title="Canais: Filmes e Séries",UNIVERSAL CHANNEL FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26007.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://img.starbr.in/1559769363_07757ac3ca69f90b02da98cb3214fe02462c89d7.png" group-title="Canais: Filmes e Séries",UNIVERSAL CHANNEL HD
+http://play.starbr.top/live/admteste20/extreme21/2475.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Canais: Filmes e Séries",WARNER CHANNEL FULL HD
+http://play.starbr.top/live/admteste20/extreme21/48817.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Canais: Filmes e Séries",WARNER CHANNEL HD
+http://play.starbr.top/live/admteste20/extreme21/2478.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL HD ALTERNATIVO" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Canais: Filmes e Séries",WARNER CHANNEL HD ALTERNATIVO
+http://play.starbr.top/live/admteste20/extreme21/48818.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG FULL HD" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Canais: Infantis",BOOMERANG FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46901.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG HD" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Canais: Infantis",BOOMERANG HD
+http://play.starbr.top/live/admteste20/extreme21/20801.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK FULL HD" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Canais: Infantis",CARTOON NETWORK FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26032.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Canais: Infantis",CARTOON NETWORK HD
+http://play.starbr.top/live/admteste20/extreme21/2479.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS FULL HD" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Canais: Infantis",DISCOVERY KIDS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26025.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Canais: Infantis",DISCOVERY KIDS HD
+http://play.starbr.top/live/admteste20/extreme21/5081.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISNEY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Canais: Infantis",DISNEY CHANNEL FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46904.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD 2" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Canais: Infantis",DISNEY CHANNEL HD 2
+http://play.starbr.top/live/admteste20/extreme21/5082.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD 1" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Canais: Infantis",DISNEY CHANNEL HD 1
+http://play.starbr.top/live/admteste20/extreme21/38438.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR FULL HD" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Canais: Infantis",DISNEY JR FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26021.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR HD" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Canais: Infantis",DISNEY JR HD
+http://play.starbr.top/live/admteste20/extreme21/20809.m3u8
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD HD" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Canais: Infantis",DISNEY XD HD
+http://play.starbr.top/live/admteste20/extreme21/20810.m3u8
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB FULL HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Canais: Infantis",GLOOB FULL HD
+http://play.starbr.top/live/admteste20/extreme21/48806.m3u8
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Canais: Infantis",GLOOB HD
+http://play.starbr.top/live/admteste20/extreme21/5086.m3u8
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD ALTERNATIVO" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Canais: Infantis",GLOOB HD ALTERNATIVO
+http://play.starbr.top/live/admteste20/extreme21/48807.m3u8
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO FULL HD" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Canais: Infantis",GLOOBINHO FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46911.m3u8
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO HD" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Canais: Infantis",GLOOBINHO HD
+http://play.starbr.top/live/admteste20/extreme21/17136.m3u8
+#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-name="NATGEO KIDS HD" tvg-logo="http://img.starbr.in/1559763203_6f273c8c781fca8c278db4fe41472e5976070ff6.png" group-title="Canais: Infantis",NATGEO KIDS HD
+http://play.starbr.top/live/admteste20/extreme21/11996.m3u8
+#EXTINF:-1 tvg-id="NICK" tvg-name="NICK FULL HD" tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg" group-title="Canais: Infantis",NICK FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26015.m3u8
+#EXTINF:-1 tvg-id="NICK" tvg-name="NICK HD" tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg" group-title="Canais: Infantis",NICK HD
+http://play.starbr.top/live/admteste20/extreme21/5093.m3u8
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR HD" tvg-logo="http://img.starbr.in/1559763550_26e1a07cd8dbf052da0a3d4c657e8d9e6008c222.png" group-title="Canais: Infantis",NICK JR HD
+http://play.starbr.top/live/admteste20/extreme21/16210.m3u8
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS FULL HD" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Canais: Notícias",BAND NEWS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/18028.m3u8
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS HD" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Canais: Notícias",BAND NEWS HD
+http://play.starbr.top/live/admteste20/extreme21/17951.m3u8
+#EXTINF:-1 tvg-id="DEUTSCH" tvg-name="DEUTSCH HD" tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png" group-title="Canais: Notícias",DEUTSCH HD
+http://play.starbr.top/live/admteste20/extreme21/37776.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FULL HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Canais: Notícias",GLOBO NEWS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46919.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Canais: Notícias",GLOBO NEWS HD
+http://play.starbr.top/live/admteste20/extreme21/5085.m3u8
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS HD" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Canais: Notícias",RECORD NEWS HD
+http://play.starbr.top/live/admteste20/extreme21/2400.m3u8
+#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA HD" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Canais: Religiosos",APARECIDA HD
+http://play.starbr.top/live/admteste20/extreme21/20831.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="A FAZENDA HD" tvg-logo="http://img.myapp.st/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="Canais: Variedades",A FAZENDA HD
+http://play.starbr.top/live/admteste20/extreme21/50846.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Canais: Variedades",A&E FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46898.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Canais: Variedades",A&E HD
+http://play.starbr.top/live/admteste20/extreme21/5078.m3u8
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 FULL HD" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Canais: Variedades",ARTE 1 FULL HD
+http://play.starbr.top/live/admteste20/extreme21/50191.m3u8
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 HD" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Canais: Variedades",ARTE 1 HD
+http://play.starbr.top/live/admteste20/extreme21/20795.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FULL HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Canais: Variedades",BIS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26028.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Canais: Variedades",BIS HD
+http://play.starbr.top/live/admteste20/extreme21/1104.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL FULL HD" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Canais: Variedades",COMEDY CENTRAL FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46902.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Canais: Variedades",COMEDY CENTRAL HD
+http://play.starbr.top/live/admteste20/extreme21/16004.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-name="DISCOVERY HOME & HEALTH FULL HD" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Canais: Variedades",DISCOVERY HOME & HEALTH FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46905.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Canais: Variedades",DISCOVERY HOME & HEALTH HD
+http://play.starbr.top/live/admteste20/extreme21/1082.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK FULL HD" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Canais: Variedades",FOOD NETWORK FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26041.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK HD" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Canais: Variedades",FOOD NETWORK HD
+http://play.starbr.top/live/admteste20/extreme21/5084.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE FULL HD" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Canais: Variedades",FOX LIFE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46909.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE HD" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Canais: Variedades",FOX LIFE HD
+http://play.starbr.top/live/admteste20/extreme21/1037.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FULL HD" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Canais: Variedades",GNT FULL HD
+http://play.starbr.top/live/admteste20/extreme21/46910.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Canais: Variedades",GNT HD
+http://play.starbr.top/live/admteste20/extreme21/2466.m3u8
+#EXTINF:-1 tvg-id="LIKE" tvg-name="L!KE FULL HD" tvg-logo="http://img.myapp.st/1567266424_823eade196e97efbff9af33d7adf3727cb448f1e.jpg" group-title="Canais: Variedades",L!KE FULL HD
+http://play.starbr.top/live/admteste20/extreme21/50197.m3u8
+#EXTINF:-1 tvg-id="LIKE" tvg-name="L!KE HD" tvg-logo="http://img.myapp.st/1567266424_823eade196e97efbff9af33d7adf3727cb448f1e.jpg" group-title="Canais: Variedades",L!KE HD
+http://play.starbr.top/live/admteste20/extreme21/50198.m3u8
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME FULL HD" tvg-logo="http://img.starbr.in/1559762507_fc26b265df648c38c77d65cb7285d1e08323b311.png" group-title="Canais: Variedades",LIFETIME FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26034.m3u8
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME HD" tvg-logo="http://img.starbr.in/1559762507_fc26b265df648c38c77d65cb7285d1e08323b311.png" group-title="Canais: Variedades",LIFETIME HD
+http://play.starbr.top/live/admteste20/extreme21/5087.m3u8
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Canais: Variedades",MAIS GLOBOSAT HD
+http://play.starbr.top/live/admteste20/extreme21/5088.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FULL HD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Canais: Variedades",MTV FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26018.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Canais: Variedades",MTV HD
+http://play.starbr.top/live/admteste20/extreme21/5092.m3u8
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW FULL HD" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Canais: Variedades",MULTISHOW FULL HD
+http://play.starbr.top/live/admteste20/extreme21/26017.m3u8
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW HD" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Canais: Variedades",MULTISHOW HD
+http://play.starbr.top/live/admteste20/extreme21/2385.m3u8
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Canais: Variedades",OFF HD
+http://play.starbr.top/live/admteste20/extreme21/2471.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://img.starbr.in/1559768628_3c5f777fbb346843410bb847b692c0dab9968f0b.png" group-title="Canais: Variedades",TLC HD
+http://play.starbr.top/live/admteste20/extreme21/5097.m3u8
+#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-name="VH1 MEGA HITS FULL HD" tvg-logo="http://img.starbr.in/1559769416_a51a51f9968d83ce169505e82221587e124a8094.png" group-title="Canais: Variedades",VH1 MEGA HITS FULL HD
+http://play.starbr.top/live/admteste20/extreme21/50193.m3u8
+#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://img.starbr.in/1559769416_a51a51f9968d83ce169505e82221587e124a8094.png" group-title="Canais: Variedades",VH1 MEGA HITS HD
+http://play.starbr.top/live/admteste20/extreme21/50194.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA FULL HD" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Canais: Variedades",VIVA FULL HD
+http://play.starbr.top/live/admteste20/extreme21/48796.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Canais: Variedades",VIVA HD
+http://play.starbr.top/live/admteste20/extreme21/2476.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD ALTERNATIVO" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Canais: Variedades",VIVA HD ALTERNATIVO
+http://play.starbr.top/live/admteste20/extreme21/48797.m3u8
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO FULL HD" tvg-logo="http://img.starbr.in/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Canais: Variedades",WOOHOO FULL HD
+http://play.starbr.top/live/admteste20/extreme21/50195.m3u8
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO HD" tvg-logo="http://img.starbr.in/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Canais: Variedades",WOOHOO HD
+http://play.starbr.top/live/admteste20/extreme21/16214.m3u8
