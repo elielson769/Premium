@@ -235,8 +235,8 @@ http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais",CANAL RURAL
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
-#EXTINF:-1 tvg-id="POLISHOP TV" tvg-logo="https://i.imgur.com/1bg86Dc.png?1" group-title="Canais", POLISHOP TV
-http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/chunklist_w1266858146.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://i.imgur.com/1bg86Dc.png?1" group-title="Canais", HBO HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/hbo1080p_63266754_d20fd447df4005cbb9fec8ce9fd266f8970a69f9.m3u8
 
 #EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="Canais", CANAL RICOS
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8 
