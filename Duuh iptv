@@ -16,7 +16,7 @@ https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca5
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-id="PREMIERE" tvg-logo="https://www.google.com/search?q=Premiere&client=ms-android-xiaomi-rev1&prmd=nvi&sxsrf=ACYBGNTG-OuRRGoYN3Y3kxs4n5l-d5C4wQ:1572596725481&source=lnms&tbm=isch&sa=X&ved=2ahUKEwihy8mpy8jlAhVxGLkGHeJrDGEQ_AUoA3oECA8QAw&biw=393&bih=766#imgrc=iOnaTmEtdadHLM" group-title="Canais", PREMIERE
+#EXTINF:-1 tvg-id="PREMIERE" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg", PREMIERE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_f6121ec510bcd55afdc8affc406be1071df521e6.m3u8
 
 #EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
