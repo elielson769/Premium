@@ -16,7 +16,7 @@ https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca5
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-id="PREMIERE 1" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="espotes",PREMIERE
+#EXTINF:-1 tvg-id="PREMIERE 1" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="esportes",PREMIERE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_f6121ec510bcd55afdc8affc406be1071df521e6.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="esportes", PREMIERE 2
@@ -37,7 +37,7 @@ http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere6_8a279e5c_0ebc4359190aa3e
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="esportes", PREMIERE 7
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_127143a78b329b8e5522c6504d9adb637dba1
 
-#EXTINF:-1 tvg-id="SPORT TV" tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2017/07/ecfa546cc63850824bb0b69141a5.png " group-title="espotes", SPORT TV
+#EXTINF:-1 tvg-id="SPORT TV" tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2017/07/ecfa546cc63850824bb0b69141a5.png " group-title="esportes", SPORT TV
 http://edge-aws.aovivo.club/hls/s:94.177.242.28/sportv_91dfde1d_a1e576dcc4f60b486d2599b011c7a734f81a8862.m3u8
 
 #EXTINF:-1 tvg-id="SPORT TV 2" tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2017/07/ecfa546cc63850824bb0b69141a5.png " group-title="esportes", SPORT TV 2
@@ -49,7 +49,7 @@ http://edge-aws.aovivo.club/hls/s:78.47.74.192/sportv3_e1a864f0_bf1aa29cd4d495bb
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfliZ4SBdqXiuSMcdbRKRs0glDdbTXVbVVdg5TGFkErfZizvRUmQUyq2WU8g&s " group-title="esportes", FOX SPORTS
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/foxsportshd_98fbc42f_f1b4df434c56b97e7c4c34189689f1f6cf82beab.m3u8
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfliZ4SBdqXiuSMcdbRKRs0glDdbTXVbVVdg5TGFkErfZizvRUmQUyq2WU8g&s " group-title="Canais", FOX SPORTS 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfliZ4SBdqXiuSMcdbRKRs0glDdbTXVbVVdg5TGFkErfZizvRUmQUyq2WU8g&s " group-title="esportes", FOX SPORTS 2
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_d49ddd87e3d72fc8199f193d19b1d793d2521265.m3u8
 
 #EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", 
