@@ -47,7 +47,7 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv2opcao2_40f7c01f_ba7787d05
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/sportv3_e1a864f0_bf1aa29cd4d495bbe86c635499d1cb3c92fb5a48.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfliZ4SBdqXiuSMcdbRKRs0glDdbTXVbVVdg5TGFkErfZizvRUmQUyq2WU8g&s " group-title="esportes", FOX SPORTS
-http://edge-aws.aovivo.club/hls/s:78.47.74.192/foxsportshd_98fbc42f_f1b4df434c56b97e7c4c34189689f1f6cf82beab.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxsports_8a1beaee_b2dd9e01b0439e1be00526f1084a312d25a3d963.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfliZ4SBdqXiuSMcdbRKRs0glDdbTXVbVVdg5TGFkErfZizvRUmQUyq2WU8g&s " group-title="esportes", FOX SPORTS 2
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_d49ddd87e3d72fc8199f193d19b1d793d2521265.m3u8
