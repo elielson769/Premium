@@ -55,53 +55,53 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_d49ddd87
 #EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", 
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_9acda3bceed7abffe60073702cf6d088e3cca41d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND PA
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=1122952623
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="ESPORTES", ESPN
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/espn_6c1e671f_aecda6eff6faa4430a76e1d22da20bc2e530db7c.m3u8
 
-#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND PA
-http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="ESPORTES", ESPNBRASIL
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/espnbrasil_2a459380_75557bbee1b36e98731832d669b87a678529acd8.m3u8
 
-#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="Canais", REDE TV SP
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/redetv_45cbe19f_436498dc75922ea8ced85ed4f5afc350ed96ec3e/playlist.m3u8
+#EXTINF:-1 tvg-id"ESPN PLUS"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="ESPORTES", ESPN PLUS
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/espn_6c1e671f_aecda6eff6faa4430a76e1d22da20bc2e530db7c.m3u8
 
-#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1 tvg-id"FOX SPORT HD"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="FILMES E SÉRIES", FOX SPORT HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_f1b4df434c56b97e7c4c34189689f1f6cf82beab.m3u8
 
-#EXTINF:-1 tvg-id"REDE TV SP" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais",  REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-id"COMBATE" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="ESPORTES",  COMBATE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_ebc14b03c4aed94519adf5180d8b0e9a7636b581.m3u8
 
-#EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 tvg-id"NATGEOKIDS"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="INFANTIL", NATGEOKIDS
+http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/natgeokids_8746b7e5_614ad1c6ec587556ad09e742f31235240afc9953.m3u8
 
-#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="Canais", REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8 
+#EXTINF:-1 tvg-id"DISCOVERY KIDS"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="INFANTIL", DISCOVERY KIDS
+http://192.155.95.85/hls/s:95.216.15.44:81/discoverykids_80e28a51_17462b5112e73efffbae4613cc36df0cc073e99e.m3u8 
 
-#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="Canais", REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/chunklist_w1831324492.m3u8
+#EXTINF:-1 tvg-id"CARTOON NETWORK"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="INFANTIL", CARTOON NETWORK
+http://172.105.148.165/hls/s:78.46.240.155/cartoonnetwork_511a418e_1b0db71923047bdcf301796553879a442aa71225.m3u8
 
-#EXTINF:-1 tvg-id"REDE TV! - RONDÔNIA"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV! - RONDÔNIA
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:-1 tvg-id"DISNEY XD"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="INFANTIL", DISNEY XD
+http://172.105.151.177/hls/s:95.216.15.44:81/disneyxd_d094700e_b7df94b23cd7dc14a86a48442a7ddc8f0bceb836.m3u8
 
-#EXTINF:-1 tvg-id="RECORD MT" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais",RECORD TV ÁGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:-1 tvg-id="DISNEY JÚNIOR" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="INFANTIL", DISNEY JÚNIOR
+http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/disneyjunior_572e2073_44a01cd4280854eff1afea4d0ba578ad23c40278.m3u8
 
-#EXTINF:-1 tvg-id="RECORD AM" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", TV ACRITICA - RECORD AM
-https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="INFANTIL", DISNEY CHANNEL
+http://66.228.56.95/hls/s:95.216.15.44:81/disneychannel_a9334987_ed4d319e64f338ca9580129e5afa32c4f9034d40.m3u8
 
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
+#EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="INFANTIL", GLOOB
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/gloob_04f1241e_fc1aade2a639ee3f954f0fb69f5a4d26c70a6be2.m3u8
 
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="INFANTIL", NICKELODEON
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/nickelodeon_bc33ea4e_ee1a50b262f0891682ce3430244a2ae43ad0dd43.m3u8
 
-#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_src.m3u8
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="INFANTIL", NICK JR
+http://172.105.153.139/hls/s:95.216.15.44:81/nickjr_54ceb912_1dc96c44e43930784a8cebf7363a28f167ddbae4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_hd720.m3u8
+#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="INFANTIL", TOONCAST
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_4816b999d6a286a34dbcd9f7177c0979d3bfb203/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD RN
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="INFANTIL", BOOMERANG
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/boomerang_2659fc51_e5348e1cac66b688aabc6710fd4fab575c1b9fc5.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD MT
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
