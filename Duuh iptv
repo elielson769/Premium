@@ -12,7 +12,7 @@ https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca5
 
 
 ###########################################################################################
-########################################   CANAIS   #######################################
+########################################   ESPORTES   #######################################
 ###########################################################################################
 
 
@@ -35,13 +35,7 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere5_0486ffb0_908ad92858e07
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere6_8a279e5c_0ebc4359190aa3e282b5368292767c8ca6c275ba.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="Canais", PREMIERE 7
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_127143a78b329b8e5522c6504d9adb637dba1a2a.m3u8
-
-
-
-####################ESPORTES#####################
-
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_127143a78b329b8e5522c6504d9adb637dba1
 
 #EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT MA
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
