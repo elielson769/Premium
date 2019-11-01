@@ -6,7 +6,7 @@
 
 #PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="Canais" pltv-description="Lista de Canais" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg"
 
-#EXTINF:-1 group-title="Atualizada 02.01.2019 ", Atualizada
+#EXTINF:-1 group-title="Atualizada 30.10.2019 ", Atualizada
 https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
 
 
@@ -16,32 +16,32 @@ https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca5
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-id="PREMIERE" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg", PREMIERE
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg", PREMIERE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_f6121ec510bcd55afdc8affc406be1071df521e6.m3u8
 
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="Canais", PREMIERE 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere2_f5b68d74_2d5071027c0444572c858626659dbb415fc55005.m3u8
 
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO SD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="Canais", PREMIERE 3
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere3_b903ea63_f7cd595ae5550ddeee59e0816a1e4452024c353f.m3u8
 
-#EXTINF:-1 tvg-id="SBT MT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - CENTRO OESTE MT
-http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="Canais",  - PREMIERE 4
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/premiere4_142e9ae3_d3046deac00166286dc4eaf5d44d82e1f23a06b8.m3u8
 
-#EXTINF:-1 tvg-id="SBT PI" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="Canais", PREMIERE 5
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere5_0486ffb0_908ad92858e07eabffa8f86eae3d88e8f81475cf.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="Canais", PREMIERE 6
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere6_8a279e5c_0ebc4359190aa3e282b5368292767c8ca6c275ba.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="Canais", PREMIERE 7
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_127143a78b329b8e5522c6504d9adb637dba1a2a.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - PE | CARUARÚ
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+####################ESPORTES#####################
+
+
 
 #EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT MA
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
