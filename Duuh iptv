@@ -53,7 +53,7 @@ http://edge-aws.aovivo.club/hls/s:78.47.74.192/foxsportshd_98fbc42f_f1b4df434c56
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_d49ddd87e3d72fc8199f193d19b1d793d2521265.m3u8
 
 #EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", 
-http://evpp.mm.uol.com.br/geob_band/donosdabola/chunklist_w167933638.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_9acda3bceed7abffe60073702cf6d088e3cca41d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND PA
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=1122952623
@@ -62,7 +62,7 @@ http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=1122952623
 http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
 
 #EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="Canais", REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/redetv_45cbe19f_436498dc75922ea8ced85ed4f5afc350ed96ec3e/playlist.m3u8
 
 #EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
