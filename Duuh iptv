@@ -233,7 +233,7 @@ https://live.multicanais.com/live/sbthd/chunks.m3u8?md5=cDAvcRZmMFARKYCrMUYGVw&e
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_e919f05588eb6d00a5ddb31b6e00f7ef0e84bb3f.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="FILMES E SÉRIES",FX
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_39e38806d6433687a33678a0d21767448666cb33/playlist.m3u8
+https://thankyougod.futemax.tv/private/4fbf088a3e5f72e5d76b92168a976550/dvr/4fbf088a3e5f72e5d76b92168a976550/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://i.imgur.com/1bg86Dc.png?1" group-title="Canais", HBO HD
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/hbo1080p_63266754_d20fd447df4005cbb9fec8ce9fd266f8970a69f9.m3u8
