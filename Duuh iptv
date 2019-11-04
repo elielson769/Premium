@@ -23,7 +23,7 @@ https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w541394271.m3u
 https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE5IDk6MjQ6MDEgUE0maGFzaF92YWx1ZT1HV0ZrSlhmOUF4bkg1MVR0UjJxL25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="esportes", PREMIERE 3
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/combate_ac3478d6_8cfa60dd1b87015c78833938d572b09c800247f7.m3u8
+
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="esportes",  - PREMIERE 4
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/premiere4_142e9ae3_d3046deac00166286dc4eaf5d44d82e1f23a06b8.m3u8
@@ -227,7 +227,7 @@ http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/FdKHLtc.png?1" group-title="Canais",CANAL SBT
-https://live.multicanais.com/live/sbthd/chunks.m3u8?md5=cDAvcRZmMFARKYCrMUYGVw&expires=1572645537
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/space_e6c3dd63_05ca203f3e705937845f281a39faa5042277c513.m3u8
  
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="FILMES E SÉRIES",HBO PLUS
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_e919f05588eb6d00a5ddb31b6e00f7ef0e84bb3f.m3u8
