@@ -67,8 +67,8 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/espn_6c1e671f_aecda6eff6faa4430a
 #EXTINF:-1 tvg-id"FOX SPORT HD"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="FILMES E SÉRIES", FOX SPORT HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_f1b4df434c56b97e7c4c34189689f1f6cf82beab.m3u8
 
-#EXTINF:-1 tvg-id"COMBATE" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="esportes",  COMBATE
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv2_22ab0e43_827c270c0ef08db193eea2ca3d6715a9f3815e1f.m3u8
+#EXTINF:-1 tvg-id"COMBATE" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="COMBATE",  COMBATE
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/combate_ac3478d6_8cfa60dd1b87015c78833938d572b09c800247f7.m3u8
 
 #EXTINF:-1 tvg-id"NATGEOKIDS"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="INFANTIL", NATGEOKIDS
 http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/natgeokids_8746b7e5_614ad1c6ec587556ad09e742f31235240afc9953.m3u8
