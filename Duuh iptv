@@ -23,7 +23,7 @@ https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w541394271.m3u
 https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE5IDk6MjQ6MDEgUE0maGFzaF92YWx1ZT1HV0ZrSlhmOUF4bkg1MVR0UjJxL25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="esportes", PREMIERE 3
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere3_b903ea63_f7cd595ae5550ddeee59e0816a1e4452024c353f.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium1_1bdf1a2f_cfbcad63225ef8ab152e3e921938b2e925b25eb4.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg " group-title="esportes",  - PREMIERE 4
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/premiere4_142e9ae3_d3046deac00166286dc4eaf5d44d82e1f23a06b8.m3u8
