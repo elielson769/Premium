@@ -41,16 +41,16 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere7_0b6a6376_127143a78b3
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_e0e50996f0067f075d3a92d193d891b29d03d587/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPORT TV 2" tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2017/07/ecfa546cc63850824bb0b69141a5.png " group-title="esportes", SPORT TV 2
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv2_22ab0e43_827c270c0ef08db193eea2ca3d6715a9f3815e1f.m3u8
+
 
 #EXTINF:-1 tvg-id="SPORT TV 3" tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2017/07/ecfa546cc63850824bb0b69141a5.png " group-title="esportes", SPORT TV 3
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv3_e1a864f0_6c00773b89447da7594961b62efd7d203c997c3b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfliZ4SBdqXiuSMcdbRKRs0glDdbTXVbVVdg5TGFkErfZizvRUmQUyq2WU8g&s " group-title="esportes", FOX SPORTS
-https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAxMDoyMDoxMCBQTSZoYXNoX3ZhbHVlPVZBelV6Vk1Zay93NDN0VGZXMTFpeUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfliZ4SBdqXiuSMcdbRKRs0glDdbTXVbVVdg5TGFkErfZizvRUmQUyq2WU8g&s " group-title="esportes", FOX SPORTS 2
-https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDE5IDM6MTk6MzggUE0maGFzaF92YWx1ZT1CWmljeFFsTmxFdXd2MTNhVE5uM0pRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/foxsports2hd_2a7541ba_2e2f767524989143a1ae67202f39e104a93070b4.m3u8
 
 #EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", 
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_9acda3bceed7abffe60073702cf6d088e3cca41d/playlist.m3u8
@@ -68,7 +68,7 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/espn_6c1e671f_aecda6eff6faa4430a
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_f1b4df434c56b97e7c4c34189689f1f6cf82beab.m3u8
 
 #EXTINF:-1 tvg-id"COMBATE" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="esportes",  COMBATE
-
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv2_22ab0e43_827c270c0ef08db193eea2ca3d6715a9f3815e1f.m3u8
 
 #EXTINF:-1 tvg-id"NATGEOKIDS"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="INFANTIL", NATGEOKIDS
 http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/natgeokids_8746b7e5_614ad1c6ec587556ad09e742f31235240afc9953.m3u8
